@@ -16,17 +16,4 @@ DBMS = "redshift"
 DB_CONNECTION_STRING = "jdbc:redshift://server:5439/database"
 DB_USER = "database_user_name_goes_here"
 DB_PASSWORD = "super_secret_password_goes_here"
-
-RESULTS_SCHEMA = "Scratch.dbo"
-CDM_SCHEMA = "CDM_IBM_MDCR_V942.dbo"
-COHORT_SCHEMA = "Scratch.dbo"
-ANDROMEDA_TEMP_FOLDER = "E:/fftemp"
-#FFTEMP_DIR = "E:/fftemp"
-emailAddress = "asena5@its.jnj.com"
-emailHost = "SMTP.na.jnj.com"
-emailPassword = ""
-#baseUrl = "https://epibeta.jnj.com:8443/WebAPI"
-baseUrl = "http://Ohdsicovid19us.us-east-1.elasticbeanstalk.com/WebAPI/"
-#USE_SUBSET = FALSE
-
 ````
