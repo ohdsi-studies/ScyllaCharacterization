@@ -1,0 +1,499 @@
+targetId,subgroupId,cohortId,cohortType,name
+1001,2001,1001020011,TwS,Hydroxychloroquine  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1002,2001,1002020011,TwS,Hydroxychloroquine + Azithromycin  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1003,2001,1003020011,TwS,Hydroxychloroquine + Fluoroquinolones with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1004,2001,1004020011,TwS,Hydroxychloroquine + Amoxicillin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1005,2001,1005020011,TwS,Hydroxychloroquine + ceftriaxone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1006,2001,1006020011,TwS,Chloroquine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1007,2001,1007020011,TwS,Azithromycin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1008,2001,1008020011,TwS,Fluoroquinolones with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1009,2001,1009020011,TwS,Amoxicillin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1010,2001,1010020011,TwS,Ceftriaxone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1011,2001,1011020011,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services"
+1012,2001,1012020011,TwS,tocilizumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1013,2001,1013020011,TwS,siltuximab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1014,2001,1014020011,TwS,sarilumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1015,2001,1015020011,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services"
+1016,2001,1016020011,TwS,baricitinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1017,2001,1017020011,TwS,tofacitinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1018,2001,1018020011,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services"
+1019,2001,1019020011,TwS,adalimumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1020,2001,1020020011,TwS,etanercept with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1021,2001,1021020011,TwS,infliximab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1022,2001,1022020011,TwS,ustekinumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1023,2001,1023020011,TwS,Anakinra with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1024,2001,1024020011,TwS,HIV Protease inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1025,2001,1025020011,TwS,ritonavir/lopinavir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1026,2001,1026020011,TwS,Interferon beta 1b with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1027,2001,1027020011,TwS,Interferon beta 1a with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1028,2001,1028020011,TwS,Interferon alfa 2a with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1029,2001,1029020011,TwS,favipiravir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1030,2001,1030020011,TwS,Remdesivir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1031,2001,1031020011,TwS,ribavirin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1032,2001,1032020011,TwS,oseltamivir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1033,2001,1033020011,TwS,Ivermectin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1034,2001,1034020011,TwS,itraconazole with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1035,2001,1035020011,TwS,warfarin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1036,2001,1036020011,TwS,heparin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1037,2001,1037020011,TwS,enoxaparin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1038,2001,1038020011,TwS,edoxaban with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1039,2001,1039020011,TwS,dabigatran with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1040,2001,1040020011,TwS,rivaroxaban with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1041,2001,1041020011,TwS,acenocoumarol with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1042,2001,1042020011,TwS,apixaban with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1043,2001,1043020011,TwS,bemiparin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1044,2001,1044020011,TwS,clopidogrel with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1045,2001,1045020011,TwS,aspirin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1046,2001,1046020011,TwS,prasugrel with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1047,2001,1047020011,TwS,alteplase with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1048,2001,1048020011,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services"
+1049,2001,1049020011,TwS,tranexamic acid with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1050,2001,1050020011,TwS,Ruxolitinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1051,2001,1051020011,TwS,Siltuximab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1052,2001,1052020011,TwS,ACE inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1053,2001,1053020011,TwS,Angiotensin receptor blockers (ARBs) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1054,2001,1054020011,TwS,Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1055,2001,1055020011,TwS,Thiazide or thiazide-like diuretics with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1056,2001,1056020011,TwS,Hydrocortisone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1057,2001,1057020011,TwS,dexamethasone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1058,2001,1058020011,TwS,prednisone or prednisolone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1059,2001,1059020011,TwS,raloxifene with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1060,2001,1060020011,TwS,Bevacizumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1061,2001,1061020011,TwS,Fingolimod with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1062,2001,1062020011,TwS,eculizumab  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1063,2001,1063020011,TwS,Statins with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1064,2001,1064020011,TwS,metformin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1065,2001,1065020011,TwS,DPP-4 inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1066,2001,1066020011,TwS,SGLT2 inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1067,2001,1067020011,TwS,GLP1 inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1068,2001,1068020011,TwS,H2 receptor antagonist with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1069,2001,1069020011,TwS,famotidine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1070,2001,1070020011,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services"
+1071,2001,1071020011,TwS,prazosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1072,2001,1072020011,TwS,terazosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1073,2001,1073020011,TwS,doxazosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1074,2001,1074020011,TwS,tamsulosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1075,2001,1075020011,TwS,BCG vaccine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1076,2001,1076020011,TwS,Colchicine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1077,2001,1077020011,TwS,Losartan with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1078,2001,1078020011,TwS,cholecalciferol with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1079,2001,1079020011,TwS,Ibrutinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1080,2001,1080020011,TwS,abiraterone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1081,2001,1081020011,TwS,bicalutamide with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1082,2001,1082020011,TwS,emtricitabine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1083,2001,1083020011,TwS,tacrolimus with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
+1001,2002,1001020021,TwS,Hydroxychloroquine  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1002,2002,1002020021,TwS,Hydroxychloroquine + Azithromycin  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1003,2002,1003020021,TwS,Hydroxychloroquine + Fluoroquinolones with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1004,2002,1004020021,TwS,Hydroxychloroquine + Amoxicillin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1005,2002,1005020021,TwS,Hydroxychloroquine + ceftriaxone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1006,2002,1006020021,TwS,Chloroquine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1007,2002,1007020021,TwS,Azithromycin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1008,2002,1008020021,TwS,Fluoroquinolones with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1009,2002,1009020021,TwS,Amoxicillin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1010,2002,1010020021,TwS,Ceftriaxone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1011,2002,1011020021,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation"
+1012,2002,1012020021,TwS,tocilizumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1013,2002,1013020021,TwS,siltuximab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1014,2002,1014020021,TwS,sarilumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1015,2002,1015020021,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation"
+1016,2002,1016020021,TwS,baricitinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1017,2002,1017020021,TwS,tofacitinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1018,2002,1018020021,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation"
+1019,2002,1019020021,TwS,adalimumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1020,2002,1020020021,TwS,etanercept with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1021,2002,1021020021,TwS,infliximab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1022,2002,1022020021,TwS,ustekinumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1023,2002,1023020021,TwS,Anakinra with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1024,2002,1024020021,TwS,HIV Protease inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1025,2002,1025020021,TwS,ritonavir/lopinavir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1026,2002,1026020021,TwS,Interferon beta 1b with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1027,2002,1027020021,TwS,Interferon beta 1a with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1028,2002,1028020021,TwS,Interferon alfa 2a with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1029,2002,1029020021,TwS,favipiravir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1030,2002,1030020021,TwS,Remdesivir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1031,2002,1031020021,TwS,ribavirin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1032,2002,1032020021,TwS,oseltamivir with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1033,2002,1033020021,TwS,Ivermectin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1034,2002,1034020021,TwS,itraconazole with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1035,2002,1035020021,TwS,warfarin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1036,2002,1036020021,TwS,heparin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1037,2002,1037020021,TwS,enoxaparin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1038,2002,1038020021,TwS,edoxaban with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1039,2002,1039020021,TwS,dabigatran with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1040,2002,1040020021,TwS,rivaroxaban with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1041,2002,1041020021,TwS,acenocoumarol with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1042,2002,1042020021,TwS,apixaban with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1043,2002,1043020021,TwS,bemiparin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1044,2002,1044020021,TwS,clopidogrel with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1045,2002,1045020021,TwS,aspirin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1046,2002,1046020021,TwS,prasugrel with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1047,2002,1047020021,TwS,alteplase with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1048,2002,1048020021,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation"
+1049,2002,1049020021,TwS,tranexamic acid with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1050,2002,1050020021,TwS,Ruxolitinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1051,2002,1051020021,TwS,Siltuximab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1052,2002,1052020021,TwS,ACE inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1053,2002,1053020021,TwS,Angiotensin receptor blockers (ARBs) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1054,2002,1054020021,TwS,Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1055,2002,1055020021,TwS,Thiazide or thiazide-like diuretics with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1056,2002,1056020021,TwS,Hydrocortisone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1057,2002,1057020021,TwS,dexamethasone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1058,2002,1058020021,TwS,prednisone or prednisolone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1059,2002,1059020021,TwS,raloxifene with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1060,2002,1060020021,TwS,Bevacizumab with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1061,2002,1061020021,TwS,Fingolimod with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1062,2002,1062020021,TwS,eculizumab  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1063,2002,1063020021,TwS,Statins with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1064,2002,1064020021,TwS,metformin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1065,2002,1065020021,TwS,DPP-4 inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1066,2002,1066020021,TwS,SGLT2 inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1067,2002,1067020021,TwS,GLP1 inhibitors with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1068,2002,1068020021,TwS,H2 receptor antagonist with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1069,2002,1069020021,TwS,famotidine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1070,2002,1070020021,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation"
+1071,2002,1071020021,TwS,prazosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1072,2002,1072020021,TwS,terazosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1073,2002,1073020021,TwS,doxazosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1074,2002,1074020021,TwS,tamsulosin with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1075,2002,1075020021,TwS,BCG vaccine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1076,2002,1076020021,TwS,Colchicine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1077,2002,1077020021,TwS,Losartan with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1078,2002,1078020021,TwS,cholecalciferol with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1079,2002,1079020021,TwS,Ibrutinib with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1080,2002,1080020021,TwS,abiraterone with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1081,2002,1081020021,TwS,bicalutamide with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1082,2002,1082020021,TwS,emtricitabine with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1083,2002,1083020021,TwS,tacrolimus with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services and 365d prior observation
+1001,2003,1001020031,TwS,"Hydroxychloroquine  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1002,2003,1002020031,TwS,"Hydroxychloroquine + Azithromycin  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1003,2003,1003020031,TwS,"Hydroxychloroquine + Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1004,2003,1004020031,TwS,"Hydroxychloroquine + Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1005,2003,1005020031,TwS,"Hydroxychloroquine + ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1006,2003,1006020031,TwS,"Chloroquine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1007,2003,1007020031,TwS,"Azithromycin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1008,2003,1008020031,TwS,"Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1009,2003,1009020031,TwS,"Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1010,2003,1010020031,TwS,"Ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1011,2003,1011020031,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1012,2003,1012020031,TwS,"tocilizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1013,2003,1013020031,TwS,"siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1014,2003,1014020031,TwS,"sarilumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1015,2003,1015020031,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1016,2003,1016020031,TwS,"baricitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1017,2003,1017020031,TwS,"tofacitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1018,2003,1018020031,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1019,2003,1019020031,TwS,"adalimumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1020,2003,1020020031,TwS,"etanercept with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1021,2003,1021020031,TwS,"infliximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1022,2003,1022020031,TwS,"ustekinumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1023,2003,1023020031,TwS,"Anakinra with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1024,2003,1024020031,TwS,"HIV Protease inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1025,2003,1025020031,TwS,"ritonavir/lopinavir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1026,2003,1026020031,TwS,"Interferon beta 1b with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1027,2003,1027020031,TwS,"Interferon beta 1a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1028,2003,1028020031,TwS,"Interferon alfa 2a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1029,2003,1029020031,TwS,"favipiravir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1030,2003,1030020031,TwS,"Remdesivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1031,2003,1031020031,TwS,"ribavirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1032,2003,1032020031,TwS,"oseltamivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1033,2003,1033020031,TwS,"Ivermectin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1034,2003,1034020031,TwS,"itraconazole with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1035,2003,1035020031,TwS,"warfarin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1036,2003,1036020031,TwS,"heparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1037,2003,1037020031,TwS,"enoxaparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1038,2003,1038020031,TwS,"edoxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1039,2003,1039020031,TwS,"dabigatran with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1040,2003,1040020031,TwS,"rivaroxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1041,2003,1041020031,TwS,"acenocoumarol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1042,2003,1042020031,TwS,"apixaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1043,2003,1043020031,TwS,"bemiparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1044,2003,1044020031,TwS,"clopidogrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1045,2003,1045020031,TwS,"aspirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1046,2003,1046020031,TwS,"prasugrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1047,2003,1047020031,TwS,"alteplase with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1048,2003,1048020031,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1049,2003,1049020031,TwS,"tranexamic acid with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1050,2003,1050020031,TwS,"Ruxolitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1051,2003,1051020031,TwS,"Siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1052,2003,1052020031,TwS,"ACE inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1053,2003,1053020031,TwS,"Angiotensin receptor blockers (ARBs) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1054,2003,1054020031,TwS,"Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1055,2003,1055020031,TwS,"Thiazide or thiazide-like diuretics with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1056,2003,1056020031,TwS,"Hydrocortisone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1057,2003,1057020031,TwS,"dexamethasone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1058,2003,1058020031,TwS,"prednisone or prednisolone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1059,2003,1059020031,TwS,"raloxifene with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1060,2003,1060020031,TwS,"Bevacizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1061,2003,1061020031,TwS,"Fingolimod with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1062,2003,1062020031,TwS,"eculizumab  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1063,2003,1063020031,TwS,"Statins with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1064,2003,1064020031,TwS,"metformin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1065,2003,1065020031,TwS,"DPP-4 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1066,2003,1066020031,TwS,"SGLT2 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1067,2003,1067020031,TwS,"GLP1 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1068,2003,1068020031,TwS,"H2 receptor antagonist with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1069,2003,1069020031,TwS,"famotidine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1070,2003,1070020031,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1071,2003,1071020031,TwS,"prazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1072,2003,1072020031,TwS,"terazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1073,2003,1073020031,TwS,"doxazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1074,2003,1074020031,TwS,"tamsulosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1075,2003,1075020031,TwS,"BCG vaccine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1076,2003,1076020031,TwS,"Colchicine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1077,2003,1077020031,TwS,"Losartan with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1078,2003,1078020031,TwS,"cholecalciferol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1079,2003,1079020031,TwS,"Ibrutinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1080,2003,1080020031,TwS,"abiraterone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1081,2003,1081020031,TwS,"bicalutamide with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1082,2003,1082020031,TwS,"emtricitabine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1083,2003,1083020031,TwS,"tacrolimus with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services"
+1001,2004,1001020041,TwS,"Hydroxychloroquine  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1002,2004,1002020041,TwS,"Hydroxychloroquine + Azithromycin  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1003,2004,1003020041,TwS,"Hydroxychloroquine + Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1004,2004,1004020041,TwS,"Hydroxychloroquine + Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1005,2004,1005020041,TwS,"Hydroxychloroquine + ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1006,2004,1006020041,TwS,"Chloroquine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1007,2004,1007020041,TwS,"Azithromycin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1008,2004,1008020041,TwS,"Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1009,2004,1009020041,TwS,"Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1010,2004,1010020041,TwS,"Ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1011,2004,1011020041,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1012,2004,1012020041,TwS,"tocilizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1013,2004,1013020041,TwS,"siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1014,2004,1014020041,TwS,"sarilumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1015,2004,1015020041,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1016,2004,1016020041,TwS,"baricitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1017,2004,1017020041,TwS,"tofacitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1018,2004,1018020041,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1019,2004,1019020041,TwS,"adalimumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1020,2004,1020020041,TwS,"etanercept with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1021,2004,1021020041,TwS,"infliximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1022,2004,1022020041,TwS,"ustekinumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1023,2004,1023020041,TwS,"Anakinra with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1024,2004,1024020041,TwS,"HIV Protease inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1025,2004,1025020041,TwS,"ritonavir/lopinavir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1026,2004,1026020041,TwS,"Interferon beta 1b with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1027,2004,1027020041,TwS,"Interferon beta 1a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1028,2004,1028020041,TwS,"Interferon alfa 2a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1029,2004,1029020041,TwS,"favipiravir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1030,2004,1030020041,TwS,"Remdesivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1031,2004,1031020041,TwS,"ribavirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1032,2004,1032020041,TwS,"oseltamivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1033,2004,1033020041,TwS,"Ivermectin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1034,2004,1034020041,TwS,"itraconazole with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1035,2004,1035020041,TwS,"warfarin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1036,2004,1036020041,TwS,"heparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1037,2004,1037020041,TwS,"enoxaparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1038,2004,1038020041,TwS,"edoxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1039,2004,1039020041,TwS,"dabigatran with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1040,2004,1040020041,TwS,"rivaroxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1041,2004,1041020041,TwS,"acenocoumarol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1042,2004,1042020041,TwS,"apixaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1043,2004,1043020041,TwS,"bemiparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1044,2004,1044020041,TwS,"clopidogrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1045,2004,1045020041,TwS,"aspirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1046,2004,1046020041,TwS,"prasugrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1047,2004,1047020041,TwS,"alteplase with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1048,2004,1048020041,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1049,2004,1049020041,TwS,"tranexamic acid with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1050,2004,1050020041,TwS,"Ruxolitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1051,2004,1051020041,TwS,"Siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1052,2004,1052020041,TwS,"ACE inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1053,2004,1053020041,TwS,"Angiotensin receptor blockers (ARBs) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1054,2004,1054020041,TwS,"Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1055,2004,1055020041,TwS,"Thiazide or thiazide-like diuretics with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1056,2004,1056020041,TwS,"Hydrocortisone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1057,2004,1057020041,TwS,"dexamethasone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1058,2004,1058020041,TwS,"prednisone or prednisolone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1059,2004,1059020041,TwS,"raloxifene with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1060,2004,1060020041,TwS,"Bevacizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1061,2004,1061020041,TwS,"Fingolimod with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1062,2004,1062020041,TwS,"eculizumab  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1063,2004,1063020041,TwS,"Statins with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1064,2004,1064020041,TwS,"metformin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1065,2004,1065020041,TwS,"DPP-4 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1066,2004,1066020041,TwS,"SGLT2 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1067,2004,1067020041,TwS,"GLP1 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1068,2004,1068020041,TwS,"H2 receptor antagonist with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1069,2004,1069020041,TwS,"famotidine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1070,2004,1070020041,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1071,2004,1071020041,TwS,"prazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1072,2004,1072020041,TwS,"terazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1073,2004,1073020041,TwS,"doxazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1074,2004,1074020041,TwS,"tamsulosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1075,2004,1075020041,TwS,"BCG vaccine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1076,2004,1076020041,TwS,"Colchicine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1077,2004,1077020041,TwS,"Losartan with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1078,2004,1078020041,TwS,"cholecalciferol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1079,2004,1079020041,TwS,"Ibrutinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1080,2004,1080020041,TwS,"abiraterone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1081,2004,1081020041,TwS,"bicalutamide with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1082,2004,1082020041,TwS,"emtricitabine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1083,2004,1083020041,TwS,"tacrolimus with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1001,2005,1001020051,TwS,Hydroxychloroquine  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1002,2005,1002020051,TwS,Hydroxychloroquine + Azithromycin  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1003,2005,1003020051,TwS,Hydroxychloroquine + Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1004,2005,1004020051,TwS,Hydroxychloroquine + Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1005,2005,1005020051,TwS,Hydroxychloroquine + ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1006,2005,1006020051,TwS,Chloroquine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1007,2005,1007020051,TwS,Azithromycin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1008,2005,1008020051,TwS,Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1009,2005,1009020051,TwS,Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1010,2005,1010020051,TwS,Ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1011,2005,1011020051,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services"
+1012,2005,1012020051,TwS,tocilizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1013,2005,1013020051,TwS,siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1014,2005,1014020051,TwS,sarilumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1015,2005,1015020051,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services"
+1016,2005,1016020051,TwS,baricitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1017,2005,1017020051,TwS,tofacitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1018,2005,1018020051,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services"
+1019,2005,1019020051,TwS,adalimumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1020,2005,1020020051,TwS,etanercept with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1021,2005,1021020051,TwS,infliximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1022,2005,1022020051,TwS,ustekinumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1023,2005,1023020051,TwS,Anakinra with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1024,2005,1024020051,TwS,HIV Protease inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1025,2005,1025020051,TwS,ritonavir/lopinavir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1026,2005,1026020051,TwS,Interferon beta 1b with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1027,2005,1027020051,TwS,Interferon beta 1a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1028,2005,1028020051,TwS,Interferon alfa 2a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1029,2005,1029020051,TwS,favipiravir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1030,2005,1030020051,TwS,Remdesivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1031,2005,1031020051,TwS,ribavirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1032,2005,1032020051,TwS,oseltamivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1033,2005,1033020051,TwS,Ivermectin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1034,2005,1034020051,TwS,itraconazole with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1035,2005,1035020051,TwS,warfarin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1036,2005,1036020051,TwS,heparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1037,2005,1037020051,TwS,enoxaparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1038,2005,1038020051,TwS,edoxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1039,2005,1039020051,TwS,dabigatran with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1040,2005,1040020051,TwS,rivaroxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1041,2005,1041020051,TwS,acenocoumarol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1042,2005,1042020051,TwS,apixaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1043,2005,1043020051,TwS,bemiparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1044,2005,1044020051,TwS,clopidogrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1045,2005,1045020051,TwS,aspirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1046,2005,1046020051,TwS,prasugrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1047,2005,1047020051,TwS,alteplase with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1048,2005,1048020051,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services"
+1049,2005,1049020051,TwS,tranexamic acid with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1050,2005,1050020051,TwS,Ruxolitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1051,2005,1051020051,TwS,Siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1052,2005,1052020051,TwS,ACE inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1053,2005,1053020051,TwS,Angiotensin receptor blockers (ARBs) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1054,2005,1054020051,TwS,Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1055,2005,1055020051,TwS,Thiazide or thiazide-like diuretics with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1056,2005,1056020051,TwS,Hydrocortisone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1057,2005,1057020051,TwS,dexamethasone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1058,2005,1058020051,TwS,prednisone or prednisolone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1059,2005,1059020051,TwS,raloxifene with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1060,2005,1060020051,TwS,Bevacizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1061,2005,1061020051,TwS,Fingolimod with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1062,2005,1062020051,TwS,eculizumab  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1063,2005,1063020051,TwS,Statins with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1064,2005,1064020051,TwS,metformin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1065,2005,1065020051,TwS,DPP-4 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1066,2005,1066020051,TwS,SGLT2 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1067,2005,1067020051,TwS,GLP1 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1068,2005,1068020051,TwS,H2 receptor antagonist with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1069,2005,1069020051,TwS,famotidine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1070,2005,1070020051,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services"
+1071,2005,1071020051,TwS,prazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1072,2005,1072020051,TwS,terazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1073,2005,1073020051,TwS,doxazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1074,2005,1074020051,TwS,tamsulosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1075,2005,1075020051,TwS,BCG vaccine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1076,2005,1076020051,TwS,Colchicine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1077,2005,1077020051,TwS,Losartan with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1078,2005,1078020051,TwS,cholecalciferol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1079,2005,1079020051,TwS,Ibrutinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1080,2005,1080020051,TwS,abiraterone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1081,2005,1081020051,TwS,bicalutamide with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1082,2005,1082020051,TwS,emtricitabine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1083,2005,1083020051,TwS,tacrolimus with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services
+1001,2006,1001020061,TwS,Hydroxychloroquine  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1002,2006,1002020061,TwS,Hydroxychloroquine + Azithromycin  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1003,2006,1003020061,TwS,Hydroxychloroquine + Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1004,2006,1004020061,TwS,Hydroxychloroquine + Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1005,2006,1005020061,TwS,Hydroxychloroquine + ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1006,2006,1006020061,TwS,Chloroquine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1007,2006,1007020061,TwS,Azithromycin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1008,2006,1008020061,TwS,Fluoroquinolones with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1009,2006,1009020061,TwS,Amoxicillin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1010,2006,1010020061,TwS,Ceftriaxone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1011,2006,1011020061,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation"
+1012,2006,1012020061,TwS,tocilizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1013,2006,1013020061,TwS,siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1014,2006,1014020061,TwS,sarilumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1015,2006,1015020061,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation"
+1016,2006,1016020061,TwS,baricitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1017,2006,1017020061,TwS,tofacitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1018,2006,1018020061,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation"
+1019,2006,1019020061,TwS,adalimumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1020,2006,1020020061,TwS,etanercept with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1021,2006,1021020061,TwS,infliximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1022,2006,1022020061,TwS,ustekinumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1023,2006,1023020061,TwS,Anakinra with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1024,2006,1024020061,TwS,HIV Protease inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1025,2006,1025020061,TwS,ritonavir/lopinavir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1026,2006,1026020061,TwS,Interferon beta 1b with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1027,2006,1027020061,TwS,Interferon beta 1a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1028,2006,1028020061,TwS,Interferon alfa 2a with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1029,2006,1029020061,TwS,favipiravir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1030,2006,1030020061,TwS,Remdesivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1031,2006,1031020061,TwS,ribavirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1032,2006,1032020061,TwS,oseltamivir with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1033,2006,1033020061,TwS,Ivermectin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1034,2006,1034020061,TwS,itraconazole with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1035,2006,1035020061,TwS,warfarin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1036,2006,1036020061,TwS,heparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1037,2006,1037020061,TwS,enoxaparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1038,2006,1038020061,TwS,edoxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1039,2006,1039020061,TwS,dabigatran with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1040,2006,1040020061,TwS,rivaroxaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1041,2006,1041020061,TwS,acenocoumarol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1042,2006,1042020061,TwS,apixaban with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1043,2006,1043020061,TwS,bemiparin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1044,2006,1044020061,TwS,clopidogrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1045,2006,1045020061,TwS,aspirin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1046,2006,1046020061,TwS,prasugrel with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1047,2006,1047020061,TwS,alteplase with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1048,2006,1048020061,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation"
+1049,2006,1049020061,TwS,tranexamic acid with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1050,2006,1050020061,TwS,Ruxolitinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1051,2006,1051020061,TwS,Siltuximab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1052,2006,1052020061,TwS,ACE inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1053,2006,1053020061,TwS,Angiotensin receptor blockers (ARBs) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1054,2006,1054020061,TwS,Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1055,2006,1055020061,TwS,Thiazide or thiazide-like diuretics with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1056,2006,1056020061,TwS,Hydrocortisone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1057,2006,1057020061,TwS,dexamethasone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1058,2006,1058020061,TwS,prednisone or prednisolone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1059,2006,1059020061,TwS,raloxifene with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1060,2006,1060020061,TwS,Bevacizumab with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1061,2006,1061020061,TwS,Fingolimod with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1062,2006,1062020061,TwS,eculizumab  with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1063,2006,1063020061,TwS,Statins with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1064,2006,1064020061,TwS,metformin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1065,2006,1065020061,TwS,DPP-4 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1066,2006,1066020061,TwS,SGLT2 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1067,2006,1067020061,TwS,GLP1 inhibitors with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1068,2006,1068020061,TwS,H2 receptor antagonist with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1069,2006,1069020061,TwS,famotidine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1070,2006,1070020061,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation"
+1071,2006,1071020061,TwS,prazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1072,2006,1072020061,TwS,terazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1073,2006,1073020061,TwS,doxazosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1074,2006,1074020061,TwS,tamsulosin with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1075,2006,1075020061,TwS,BCG vaccine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1076,2006,1076020061,TwS,Colchicine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1077,2006,1077020061,TwS,Losartan with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1078,2006,1078020061,TwS,cholecalciferol with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1079,2006,1079020061,TwS,Ibrutinib with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1080,2006,1080020061,TwS,abiraterone with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1081,2006,1081020061,TwS,bicalutamide with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1082,2006,1082020061,TwS,emtricitabine with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
+1083,2006,1083020061,TwS,tacrolimus with Persons hospitalized with a COVID-19 diagnosis record or a SARS-CoV-2 positive test after intensive services with 365d prior observation
