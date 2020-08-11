@@ -1,9 +1,9 @@
-Project Sc(y)lla: SARS-Cov-2 Large-scale Longitudinal Analyses on the comparative safety and effectiveness of treatments under evaluation for COVID-19 across an international observational data network
+Project Sc(y)lla Characterization: SARS-Cov-2 Large-scale Longitudinal Analyses on the comparative safety and effectiveness of treatments under evaluation for COVID-19 across an international observational data network
 ===========================================================================================
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-- Analytics use case(s): **Characterization, Estimation**
+- Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
 - Tags: **OHDSI, Study-a-thon, COVID-19**
 - Study lead: **Daniel Prieto-Alhambra, Patrick Ryan**
@@ -15,18 +15,18 @@ Project Sc(y)lla: SARS-Cov-2 Large-scale Longitudinal Analyses on the comparativ
 - Results explorer: **TBD**
 
 **Objectives:**
-The aim of this study is to assess the comparative safety and effectiveness of all emerging drug therapies used in COVID-19 treatment.
+The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment.
 
-Specifically, the study has the following objectives:
+Specifically, the study aims to chararacterize:
 
-1) To assess comparative effectiveness and safety among treatments administered during hospitalization and prior to intensive services
-2) To assess comparative effectiveness and safety among treatments administered during hospitalization after initiating intensive services
-3) To assess comparative effectiveness and safety among treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization
+1) Treatments administered during hospitalization and prior to intensive services
+2) Treatments administered during hospitalization after initiating intensive services
+3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization
 
-Out of scope:
-- To assess comparative effectiveness and safety among treatments administered prior to COVID-19 positive testing and hospitalization (e.g. prophylaxis treatment)
-- To assess comparative effects of COVID-19 treatments compared to no treatment
 ### Package Install
+
+
+#### This section is still under development
 
 Notes:
 
