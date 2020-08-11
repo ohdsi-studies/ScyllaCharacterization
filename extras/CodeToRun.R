@@ -1,3 +1,6 @@
+library(ScyllaCharacterization)
+projectRootFolder <- "E:/ScyllaCharacterization"
+
 # Optional: specify where the temporary files (used by the Andromeda package) will be created:
 andromedaTempFolder <- if (Sys.getenv("ANDROMEDA_TEMP_FOLDER") == "") "~/andromedaTemp" else Sys.getenv("ANDROMEDA_TEMP_FOLDER")
 options(andromedaTempFolder = andromedaTempFolder)
@@ -34,7 +37,7 @@ databaseName <- "cdm_health_verity_v1282_2"
 databaseDescription <- "cdm_health_verity_v1282_2"
 
 # Details for connecting to the CDM and storing the results
-outputFolder <- file.path(projectFolder, databaseId)
+outputFolder <- file.path(projectRootFolder, databaseId)
 setwd(outputFolder)
 cdmDatabaseSchema <- "cdm_health_verity_v1282_2"
 cohortDatabaseSchema <- "cdm_health_verity_v1282_2"

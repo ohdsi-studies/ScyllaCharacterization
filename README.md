@@ -23,54 +23,12 @@ Specifically, the study aims to chararacterize:
 2) Treatments administered during hospitalization after initiating intensive services
 3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization
 
-### Package Install
+## Package Usage
 
+The following will guide you through the package setup and execution process:
 
-#### This section is still under development
-
-Notes:
-
-Using renv
-
-````
-> file.path(R.home("etc"), "Renviron.site")
-[1] "E:/R/R-3.6.3/etc/Renviron.site"
-````
-
-Message about renv
-````
-> renv::init()
-
-Welcome to renv!
-
-It looks like this is your first time using renv. This is a one-time message,
-briefly describing some of renv's functionality.
-
-renv maintains a local cache of data on the filesystem, located at:
-
-  - "C:/Users/admin_asena5/AppData/Local/renv"
-
-This path can be customized: please see the documentation in `?renv::paths`.
-
-renv will also write to files within the active project folder, including:
-
-  - A folder 'renv' in the project directory, and
-  - A lockfile called 'renv.lock' in the project directory.
-
-In particular, projects using renv will normally use a private, per-project
-R library, in which new packages will be installed. This project library is
-isolated from other R libraries on your system.
-
-In addition, renv will update files within your project directory, including:
-
-  - .gitignore
-  - .Rbuildignore
-  - .Rprofile
-
-Please read the introduction vignette with `vignette("renv")` for more information.
-You can also browse the package documentation online at https://rstudio.github.io/renv.
-````
-
+- [Study package setup](STUDY-PACKAGE-SETUP.md): Guides you through the steps to install the study package.
+- [Study execution](STUDY-EXECUTION.md): Guides you through the steps to execute the study package.
 
 ### FAQ
 #### *I'm a data owner. How do I know if this study is right for my data?*
