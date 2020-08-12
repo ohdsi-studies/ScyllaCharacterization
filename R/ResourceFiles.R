@@ -37,6 +37,7 @@ getTargetSubgroupXref <- function() {
   return(readCsv(resourceFile))
 }
 
+#' @export
 getCohortsToCreate <- function(cohortGroups = getCohortGroups()) {
   packageName <- getThisPackageName()
   cohorts <- data.frame()

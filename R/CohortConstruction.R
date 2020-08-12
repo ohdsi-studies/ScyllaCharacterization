@@ -296,7 +296,6 @@ instantiateCohortSet <- function(connectionDetails = NULL,
                                  cohortDatabaseSchema = cdmDatabaseSchema,
                                  cohortTable = "cohort",
                                  cohortIds = NULL,
-                                 minCellCount,
                                  generateInclusionStats = FALSE,
                                  inclusionStatisticsFolder = NULL,
                                  createCohortTable = FALSE,
@@ -413,7 +412,7 @@ createTempInclusionStatsTables <- function(connection, oracleTempSchema, cohorts
   
   inclusionRules <- data.frame()
   for (i in 1:nrow(cohorts)) {
-    cohortDefinition <- RJSONIO::fromJSON(cohorts$json[i])
+    cohortDefinition <- jsonlite::fromJSON(cohorts$json[i])
     if (!is.null(cohortDefinition$InclusionRules)) {
       nrOfRules <- length(cohortDefinition$InclusionRules)
       if (nrOfRules > 0) {

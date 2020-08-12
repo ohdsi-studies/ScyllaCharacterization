@@ -70,7 +70,6 @@ runStudy <- function(connectionDetails = NULL,
                          cohortDatabaseSchema = cohortDatabaseSchema,
                          cohortTable = cohortStagingTable,
                          cohortIds = targetCohortIds,
-                         minCellCount = minCellCount,
                          createCohortTable = TRUE,
                          generateInclusionStats = FALSE,
                          incremental = incremental,
@@ -90,14 +89,13 @@ runStudy <- function(connectionDetails = NULL,
                          cohortDatabaseSchema = cohortDatabaseSchema,
                          cohortTable = cohortStagingTable,
                          cohortIds = subgroupCohortIds,
-                         minCellCount = minCellCount,
                          createCohortTable = FALSE,
                          generateInclusionStats = FALSE,
                          incremental = incremental,
                          incrementalFolder = incrementalFolder,
                          inclusionStatisticsFolder = exportFolder)
   }
-  
+
   if (length(featureCohortIds) > 0) {
     # Create the feature cohorts
     ParallelLogger::logInfo("**********************************************************")
@@ -110,7 +108,6 @@ runStudy <- function(connectionDetails = NULL,
                          cohortDatabaseSchema = cohortDatabaseSchema,
                          cohortTable = cohortStagingTable,
                          cohortIds = featureCohortIds,
-                         minCellCount = minCellCount,
                          createCohortTable = FALSE,
                          generateInclusionStats = FALSE,
                          incremental = incremental,
@@ -163,7 +160,7 @@ runStudy <- function(connectionDetails = NULL,
                                                                oracleTempSchema = oracleTempSchema),
                          isMetaAnalysis = 0)
   writeToCsv(database, file.path(exportFolder, "database.csv"))
-  
+
   # Counting staging cohorts ---------------------------------------------------------------
   ParallelLogger::logInfo("Counting staging cohorts")
   counts <- getCohortCounts(connection = connection,
@@ -245,11 +242,11 @@ runStudy <- function(connectionDetails = NULL,
     ParallelLogger::logInfo("********************************************************************************************")
     ParallelLogger::logInfo("Bulk characterization of all cohorts for all time windows")
     ParallelLogger::logInfo("********************************************************************************************")
-    createBulkCharacteristics(connection, 
-                              oracleTempSchema, 
-                              cohortIds = featureExtractionCohorts$cohortId, 
-                              cdmDatabaseSchema, 
-                              cohortDatabaseSchema, 
+    createBulkCharacteristics(connection,
+                              oracleTempSchema,
+                              cohortIds = featureExtractionCohorts$cohortId,
+                              cdmDatabaseSchema,
+                              cohortDatabaseSchema,
                               cohortTable)
     writeBulkCharacteristics(connection, oracleTempSchema, counts, minCellCount, databaseId, exportFolder)
   } else {
@@ -281,7 +278,7 @@ runStudy <- function(connectionDetails = NULL,
       } else {
         subset <- featureExtractionCohorts
       }
-      
+
       if (nrow(subset) > 0) {
         for (j in 1:nrow(subset)) {
           data <- runCohortCharacterization(cohortId = subset$cohortId[j],
@@ -305,7 +302,7 @@ runStudy <- function(connectionDetails = NULL,
       }
     }
   }
-  
+
   # Format results -----------------------------------------------------------------------------------
   ParallelLogger::logInfo("********************************************************************************************")
   ParallelLogger::logInfo("Formatting Results")
@@ -318,12 +315,13 @@ runStudy <- function(connectionDetails = NULL,
   
   # Save package metadata ---------------------------------------------------------------
   ParallelLogger::logInfo("Saving package metadata")
+  packageVersionNumber <- packageVersion(getThisPackageName())
   packageMetadata <- data.frame(packageId = getThisPackageName(),
-                                 packageVersion = packageVersion(getThisPackageName()),
-                                 executionDate = start,
-                                 params = list(cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
-                                               cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
-                                               cohortGroups = cohortGroups))
+                                packageVersion = packageVersionNumber,
+                                executionDate = start,
+                                params = as.character(jsonlite::toJSON(list(cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
+                                                               cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
+                                                               cohortGroups = cohortGroups))))
   writeToCsv(packageMetadata, file.path(exportFolder, "package.csv"))
   
   
@@ -454,7 +452,6 @@ loadCohortsFromPackage <- function(cohortIds) {
 }
 
 loadCohortsForExportFromPackage <- function(cohortIds) {
-  packageName = getThisPackageName()
   cohorts <- getCohortsToCreate()
   cohorts$atlasId <- NULL
   if ("atlasName" %in% colnames(cohorts)) {

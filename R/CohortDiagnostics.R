@@ -62,7 +62,6 @@ runCohortDiagnostics <- function(connectionDetails = NULL,
                        cohortDatabaseSchema = cohortDatabaseSchema,
                        cohortTable = cohortStagingTable,
                        cohortIds = cohorts$cohortId,
-                       minCellCount = minCellCount,
                        createCohortTable = TRUE,
                        generateInclusionStats = FALSE,
                        incremental = TRUE,
@@ -94,6 +93,7 @@ runCohortDiagnostics <- function(connectionDetails = NULL,
                                             runIncidenceRate = TRUE,
                                             runCohortOverlap = FALSE,
                                             runCohortCharacterization = FALSE,
+                                            runTemporalCohortCharacterization = FALSE,
                                             minCellCount = minCellCount,
                                             incremental = TRUE,
                                             incrementalFolder = incrementalFolder)
@@ -101,7 +101,7 @@ runCohortDiagnostics <- function(connectionDetails = NULL,
   
   # Bundle the diagnosics for export
   bundledResultsLocation <- bundleDiagnosticsResults(diagnosticOutputFolder, databaseId)
-  ParallelLogger::logInfo(paste("CHARYBDIS cohort diagnostics are bundled for sharing at: ", bundledResultsLocation))
+  ParallelLogger::logInfo(paste("Cohort diagnostics are bundled for sharing at: ", bundledResultsLocation))
 }
 
 #' @export

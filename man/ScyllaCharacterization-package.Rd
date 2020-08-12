@@ -4,14 +4,14 @@
 \name{ScyllaCharacterization-package}
 \alias{ScyllaCharacterization}
 \alias{ScyllaCharacterization-package}
-\title{ScyllaCharacterization: Characterize cohorts receiving COVID-19 treatments}
+\title{ScyllaCharacterization: Characterize all emerging drug therapies used in COVID-19 treatment}
 \description{
-Characterize cohorts receiving COVID-19 treatments
+The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment.Specifically, the study aims to chararacterize: 1) Treatments administered during hospitalization and prior to intensive services, 2) Treatments administered during hospitalization after initiating intensive services, 3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/ohdsi-studies/Scylla/characterization}
+  \item \url{https://github.com/ohdsi-studies/ScyllaCharacterization}
   \item Report bugs at \url{https://github.com/OHDSI/ScyllaCharacterization/issues}
 }
 
