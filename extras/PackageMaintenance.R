@@ -113,14 +113,6 @@ insertCohortDefinitionSetInPackage <- function(fileName = "inst/settings/Cohorts
   }
 }
 
-# This function preserves the JSON formatting from WebAPI
-getCohortDefinitionJson <- function(atlasCohortId, baseUrl) {
-  response <- httr::GET(url = paste0(baseUrl, "cohortdefinition/", atlasCohortId))
-  content <- httr::content(response)
-  formattedCohortExpression <- jsonlite::prettify(content$expression)
-  return(formattedCohortExpression)
-}
-
 insertCohortDefinitionInPackage <- function(cohortId,
                                             localCohortId,
                                             name = NULL,
@@ -142,7 +134,7 @@ insertCohortDefinitionInPackage <- function(cohortId,
     dir.create(jsonFolder, recursive = TRUE)
   }
   jsonFileName <- file.path(jsonFolder, paste(localCohortId, "json", sep = "."))
-  json <- getCohortDefinitionJson(cohortId, baseUrl) # Use the work-around here vs what is returned from ROhdsiWebApi
+  json <- RJSONIO::toJSON(object$expression, digits = 23, pretty = TRUE) # Use the work-around here vs what is returned from ROhdsiWebApi
   SqlRender::writeSql(sql = json, targetFile = jsonFileName)
   writeLines(paste("- Created JSON file:", jsonFileName))
   
