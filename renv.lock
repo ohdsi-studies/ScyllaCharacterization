@@ -561,7 +561,7 @@
     },
     "ScyllaCharacterization": {
       "Package": "ScyllaCharacterization",
-      "Version": "0.0.2",
+      "Version": "0.0.3",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",

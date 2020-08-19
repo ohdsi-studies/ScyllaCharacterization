@@ -1,3 +1,4 @@
 cohortGroup,fileName,userCanSelect
+feature,settings/diagnostics/CohortsToCreateFeature.csv,FALSE
 target,settings/diagnostics/CohortsToCreateTarget.csv,TRUE
 subgroup,settings/diagnostics/CohortsToCreateSubgroup.csv,FALSE
