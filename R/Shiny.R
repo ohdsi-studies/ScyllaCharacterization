@@ -26,6 +26,7 @@ launchShinyApp <- function(outputFolder,
   ensure_installed("DT")
   ensure_installed("VennDiagram")
   ensure_installed("htmltools")
+  ensure_installed("pool")
   appDir <- system.file("shiny/ResultsExplorer", package = getThisPackageName(), mustWork = TRUE)
   .GlobalEnv$shinySettings <- shinySettings
   on.exit(rm(shinySettings, envir = .GlobalEnv))
