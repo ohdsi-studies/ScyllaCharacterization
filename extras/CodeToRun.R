@@ -30,12 +30,12 @@ if (!is.null(connectionString)) {
 }
 
 # Details specific to the database:
-databaseId <- "CDM_OPTUM_EHR_COVID_v1239"
-databaseName <- "CDM_OPTUM_EHR_COVID_v1239"
-databaseDescription <- "CDM_OPTUM_EHR_COVID_v1239"
+databaseId <- "CDM_CPRD_COVID_V1290"
+databaseName <- "CDM_CPRD_COVID_V1290"
+databaseDescription <- "CDM_CPRD_COVID_V1290"
 
 # Details for connecting to the CDM and storing the results
-cdmDatabaseSchema <- "CDM_OPTUM_EHR_COVID_v1239.dbo"
+cdmDatabaseSchema <- "CDM_CPRD_COVID_V1290.dbo"
 cohortDatabaseSchema <- "Scratch.dbo"
 cohortTable <- paste0("AS_ScyllaChar_", databaseId)
 cohortStagingTable <- paste0(cohortTable, "_stg")
