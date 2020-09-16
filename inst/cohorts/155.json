@@ -111,7 +111,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.739552e+07,
+							"CONCEPT_ID" : 37395517,
 							"CONCEPT_NAME" : "Acute kidney injury due to acute tubular necrosis due to sepsis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -128,7 +128,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671631e+07,
+							"CONCEPT_ID" : 36716312,
 							"CONCEPT_NAME" : "Acute kidney injury due to sepsis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -145,7 +145,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.04871e+07,
+							"CONCEPT_ID" : 40487101,
 							"CONCEPT_NAME" : "Clinical sepsis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -349,7 +349,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671675e+07,
+							"CONCEPT_ID" : 36716754,
 							"CONCEPT_NAME" : "Transient neonatal neutropenia due to neonatal bacterial sepsis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

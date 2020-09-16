@@ -1,16 +1,16 @@
 Package: ScyllaCharacterization
 Type: Package
 Title: Characterize all emerging drug therapies used in COVID-19 treatment
-Version: 0.0.3
+Version: 1.0.0
 Author: Anthony G. Sena [aut, cre]
 Maintainer: Anthony G. Sena <asena5@its.jnj.com>
-Description: The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment.Specifically, the study aims to chararacterize: 1) Treatments administered during hospitalization and prior to intensive services, 2) Treatments administered during hospitalization after initiating intensive services, 3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization. 
+Description: The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment. Specifically, the study aims to chararacterize: 1) Treatments administered during hospitalization and prior to intensive services, 2) Treatments administered during hospitalization after initiating intensive services, 3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization. 
 License: file LICENSE
 VignetteBuilder: knitr
 Depends:
   DatabaseConnector (>= 3.0.0)
 Imports:
-  CohortDiagnostics (>= 1.2.0),
+  CohortDiagnostics (>= 1.2.2),
   FeatureExtraction (>= 3.0.0),
   ParallelLogger (>= 2.0.0),
   OhdsiSharing (>= 0.2.2),
@@ -22,7 +22,12 @@ Imports:
   ggplot2 (>= 3.2.1),
   tibble,
   jsonlite,
-  shiny
+  shiny,
+  shinydashboard,
+  pool,
+  DT,
+  htmltools,
+  markdown
 Suggests:
   knitr,
   rmarkdown

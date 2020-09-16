@@ -44,7 +44,7 @@
 					"CodesetId" : 2,
 					"MeasurementTypeExclude" : false,
 					"ValueAsNumber" : {
-						"Value" : 100.4,
+						"Value" : 100.40000000000000568434,
 						"Op" : "bt",
 						"Extent" : 120
 					},
@@ -94,7 +94,7 @@
 					"CodesetId" : 2,
 					"ObservationTypeExclude" : false,
 					"ValueAsNumber" : {
-						"Value" : 100.4,
+						"Value" : 100.40000000000000568434,
 						"Op" : "bt",
 						"Extent" : 120
 					},
@@ -126,7 +126,7 @@
 	"ConceptSets" : [
 		{
 			"id" : 1,
-			"name" : "Fever (38.0?C or higher) pre-coordinated measurement and conditions",
+			"name" : "Fever (38.0°C or higher) pre-coordinated measurement and conditions",
 			"expression" : {
 				"items" : [
 					{
@@ -182,7 +182,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720509e+07,
+							"CONCEPT_ID" : 37205085,
 							"CONCEPT_NAME" : "Familial mesial temporal lobe epilepsy with febrile seizures",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -267,7 +267,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.701687e+07,
+							"CONCEPT_ID" : 37016869,
 							"CONCEPT_NAME" : "Infection caused by Borrelia miyamotoi",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -420,7 +420,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.739718e+07,
+							"CONCEPT_ID" : 37397178,
 							"CONCEPT_NAME" : "PFAPA syndrome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -437,7 +437,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.049347e+07,
+							"CONCEPT_ID" : 40493465,
 							"CONCEPT_NAME" : "Paraneoplastic fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -471,7 +471,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478443e+07,
+							"CONCEPT_ID" : 44784428,
 							"CONCEPT_NAME" : "Post diphtheria vaccination fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -488,7 +488,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478443e+07,
+							"CONCEPT_ID" : 44784427,
 							"CONCEPT_NAME" : "Post diphtheria, tetanus and pertussis vaccination fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -505,7 +505,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478443e+07,
+							"CONCEPT_ID" : 44784429,
 							"CONCEPT_NAME" : "Post pertussis vaccination fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -522,7 +522,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478248e+07,
+							"CONCEPT_ID" : 44782483,
 							"CONCEPT_NAME" : "Post tetanus vaccination fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -539,7 +539,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353065e+07,
+							"CONCEPT_ID" : 43530646,
 							"CONCEPT_NAME" : "Post vaccination fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -607,7 +607,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353064e+07,
+							"CONCEPT_ID" : 43530637,
 							"CONCEPT_NAME" : "Postprocedural fever",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -624,7 +624,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.701746e+07,
+							"CONCEPT_ID" : 37017455,
 							"CONCEPT_NAME" : "Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -882,7 +882,7 @@
 		},
 		{
 			"id" : 2,
-			"name" : "Fever (38.0?C or higher) measurement and observation",
+			"name" : "Fever (38.0°C or higher) measurement and observation",
 			"expression" : {
 				"items" : [
 					{
@@ -904,7 +904,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.149087e+07,
+							"CONCEPT_ID" : 21490870,
 							"CONCEPT_NAME" : "Bladder temperature via Foley",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -921,7 +921,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.149069e+07,
+							"CONCEPT_ID" : 21490688,
 							"CONCEPT_NAME" : "Body surface temperature",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1210,7 +1210,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.149091e+07,
+							"CONCEPT_ID" : 21490907,
 							"CONCEPT_NAME" : "Ear temperature",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1227,7 +1227,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.149059e+07,
+							"CONCEPT_ID" : 21490588,
 							"CONCEPT_NAME" : "Esophageal temperature",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1278,7 +1278,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.480921e+07,
+							"CONCEPT_ID" : 44809208,
 							"CONCEPT_NAME" : "Maximum body temperature",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1295,7 +1295,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.149091e+07,
+							"CONCEPT_ID" : 21490906,
 							"CONCEPT_NAME" : "Nasal temperature",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1312,7 +1312,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.149059e+07,
+							"CONCEPT_ID" : 21490590,
 							"CONCEPT_NAME" : "Nasopharyngeal temperature",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1584,7 +1584,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.576978e+07,
+							"CONCEPT_ID" : 45769775,
 							"CONCEPT_NAME" : "Temperature of neonate at birth",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

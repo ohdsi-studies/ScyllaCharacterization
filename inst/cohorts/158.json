@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.576889e+07,
+							"CONCEPT_ID" : 45768888,
 							"CONCEPT_NAME" : "Acute pulmonary thromboembolism",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.576889e+07,
+							"CONCEPT_ID" : 45768887,
 							"CONCEPT_NAME" : "Chronic pulmonary thromboembolism",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -144,7 +144,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577102e+07,
+							"CONCEPT_ID" : 45771016,
 							"CONCEPT_NAME" : "Chronic pulmonary thromboembolism without pulmonary hypertension",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -314,7 +314,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353061e+07,
+							"CONCEPT_ID" : 43530605,
 							"CONCEPT_NAME" : "Pulmonary embolism with pulmonary infarction",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -365,7 +365,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671311e+07,
+							"CONCEPT_ID" : 36713113,
 							"CONCEPT_NAME" : "Saddle embolus of pulmonary artery",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -382,7 +382,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.561506e+07,
+							"CONCEPT_ID" : 35615055,
 							"CONCEPT_NAME" : "Saddle embolus of pulmonary artery with acute cor pulmonale",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -501,7 +501,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048109e+07,
+							"CONCEPT_ID" : 40481089,
 							"CONCEPT_NAME" : "Embolism from thrombosis of vein of lower extremity",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

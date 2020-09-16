@@ -26,7 +26,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160449e+07,
+							"CONCEPT_ID" : 21604490,
 							"CONCEPT_NAME" : "ANTIPSYCHOTICS",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -195,7 +195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.908023e+07,
+							"CONCEPT_ID" : 19080226,
 							"CONCEPT_NAME" : "milnacipran",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -237,7 +237,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.903242e+07,
+							"CONCEPT_ID" : 19032424,
 							"CONCEPT_NAME" : "amineptin",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -288,7 +288,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.903988e+07,
+							"CONCEPT_ID" : 19039883,
 							"CONCEPT_NAME" : "butriptyline",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -339,7 +339,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.902385e+07,
+							"CONCEPT_ID" : 19023846,
 							"CONCEPT_NAME" : "dibenzepin",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -356,7 +356,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.903799e+07,
+							"CONCEPT_ID" : 19037989,
 							"CONCEPT_NAME" : "Dothiepin",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -407,7 +407,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.91222e+07,
+							"CONCEPT_ID" : 19122204,
 							"CONCEPT_NAME" : "Iprindole",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -424,7 +424,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.909183e+07,
+							"CONCEPT_ID" : 19091830,
 							"CONCEPT_NAME" : "Lofepramine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -441,7 +441,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.911075e+07,
+							"CONCEPT_ID" : 19110751,
 							"CONCEPT_NAME" : "MELITRACEN",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -475,7 +475,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.912964e+07,
+							"CONCEPT_ID" : 19129635,
 							"CONCEPT_NAME" : "Opipramol",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -509,7 +509,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.909851e+07,
+							"CONCEPT_ID" : 19098514,
 							"CONCEPT_NAME" : "quinupramine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -568,7 +568,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.912755e+07,
+							"CONCEPT_ID" : 19127550,
 							"CONCEPT_NAME" : "Nialamide",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -644,7 +644,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.687878e+07,
+							"CONCEPT_ID" : 36878783,
 							"CONCEPT_NAME" : "Agomelatine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -695,7 +695,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.900774e+07,
+							"CONCEPT_ID" : 19007737,
 							"CONCEPT_NAME" : "Mianserin",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -746,7 +746,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.642729e+07,
+							"CONCEPT_ID" : 36427294,
 							"CONCEPT_NAME" : "Oxitriptan",
 							"STANDARD_CONCEPT" : "N",
 							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
@@ -763,7 +763,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.908469e+07,
+							"CONCEPT_ID" : 19084693,
 							"CONCEPT_NAME" : "reboxetine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -797,7 +797,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.904191e+07,
+							"CONCEPT_ID" : 19041910,
 							"CONCEPT_NAME" : "tianeptine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -831,7 +831,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.900619e+07,
+							"CONCEPT_ID" : 19006186,
 							"CONCEPT_NAME" : "Tryptophan",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -848,7 +848,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.023483e+07,
+							"CONCEPT_ID" : 40234834,
 							"CONCEPT_NAME" : "vilazodone",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -865,7 +865,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 1.900826e+07,
+							"CONCEPT_ID" : 19008261,
 							"CONCEPT_NAME" : "Viloxazine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -882,7 +882,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.45077e+07,
+							"CONCEPT_ID" : 44507700,
 							"CONCEPT_NAME" : "vortioxetine",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1339,7 +1339,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.04818e+07,
+							"CONCEPT_ID" : 40481798,
 							"CONCEPT_NAME" : "Chronic depressive personality disorder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

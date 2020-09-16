@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048109e+07,
+							"CONCEPT_ID" : 40481089,
 							"CONCEPT_NAME" : "Embolism from thrombosis of vein of lower extremity",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -348,7 +348,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671311e+07,
+							"CONCEPT_ID" : 36713113,
 							"CONCEPT_NAME" : "Saddle embolus of pulmonary artery",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -365,7 +365,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.561506e+07,
+							"CONCEPT_ID" : 35615055,
 							"CONCEPT_NAME" : "Saddle embolus of pulmonary artery with acute cor pulmonale",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

@@ -144,7 +144,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671306e+07,
+							"CONCEPT_ID" : 36713056,
 							"CONCEPT_NAME" : "Myalgia caused by statin",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -161,7 +161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.711803e+07,
+							"CONCEPT_ID" : 37118025,
 							"CONCEPT_NAME" : "Myofascial pain syndrome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -195,7 +195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.731237e+07,
+							"CONCEPT_ID" : 37312366,
 							"CONCEPT_NAME" : "RSIS - Repetitive strain injury syndrome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -212,7 +212,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.628489e+07,
+							"CONCEPT_ID" : 46284893,
 							"CONCEPT_NAME" : "Secondary fibromyalgia",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

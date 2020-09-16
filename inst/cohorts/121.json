@@ -172,7 +172,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.248314e+07,
+							"CONCEPT_ID" : 42483138,
 							"CONCEPT_NAME" : "Albuterol / Beclomethasone Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -189,7 +189,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.681253e+07,
+							"CONCEPT_ID" : 36812530,
 							"CONCEPT_NAME" : "Albuterol / Beclomethasone Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -206,7 +206,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.072774e+07,
+							"CONCEPT_ID" : 40727741,
 							"CONCEPT_NAME" : "Albuterol / Ipratropium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -240,7 +240,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014267e+07,
+							"CONCEPT_ID" : 40142665,
 							"CONCEPT_NAME" : "Albuterol / Ipratropium Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -257,7 +257,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.623446e+07,
+							"CONCEPT_ID" : 46234463,
 							"CONCEPT_NAME" : "Albuterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -308,7 +308,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.01427e+07,
+							"CONCEPT_ID" : 40142703,
 							"CONCEPT_NAME" : "Albuterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -325,7 +325,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.642129e+07,
+							"CONCEPT_ID" : 36421291,
 							"CONCEPT_NAME" : "Beclomethasone / formoterol / glycopyrronium Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -342,7 +342,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.074535e+07,
+							"CONCEPT_ID" : 40745353,
 							"CONCEPT_NAME" : "Beclomethasone / formoterol / glycopyrronium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -359,7 +359,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.678795e+07,
+							"CONCEPT_ID" : 36787954,
 							"CONCEPT_NAME" : "Beclomethasone / formoterol / glycopyrronium Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -376,7 +376,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.115894e+07,
+							"CONCEPT_ID" : 21158944,
 							"CONCEPT_NAME" : "Beclomethasone / formoterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -393,7 +393,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.689446e+07,
+							"CONCEPT_ID" : 36894458,
 							"CONCEPT_NAME" : "Beclomethasone / formoterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -410,7 +410,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.109004e+07,
+							"CONCEPT_ID" : 21090035,
 							"CONCEPT_NAME" : "Beclomethasone / formoterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -427,7 +427,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.688371e+07,
+							"CONCEPT_ID" : 36883710,
 							"CONCEPT_NAME" : "Beclomethasone Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -444,7 +444,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.513006e+07,
+							"CONCEPT_ID" : 35130061,
 							"CONCEPT_NAME" : "Beclomethasone Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -461,7 +461,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014278e+07,
+							"CONCEPT_ID" : 40142784,
 							"CONCEPT_NAME" : "Beclomethasone Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -478,7 +478,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.247968e+07,
+							"CONCEPT_ID" : 42479684,
 							"CONCEPT_NAME" : "Budesonide / formoterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -495,7 +495,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.51335e+07,
+							"CONCEPT_ID" : 35133500,
 							"CONCEPT_NAME" : "Budesonide / formoterol Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -529,7 +529,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014291e+07,
+							"CONCEPT_ID" : 40142910,
 							"CONCEPT_NAME" : "Budesonide / formoterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -546,7 +546,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.678727e+07,
+							"CONCEPT_ID" : 36787269,
 							"CONCEPT_NAME" : "Budesonide / salmeterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -580,7 +580,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.513583e+07,
+							"CONCEPT_ID" : 35135829,
 							"CONCEPT_NAME" : "Budesonide Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -614,7 +614,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.412075e+07,
+							"CONCEPT_ID" : 44120754,
 							"CONCEPT_NAME" : "Budesonide Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -631,7 +631,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.120583e+07,
+							"CONCEPT_ID" : 41205832,
 							"CONCEPT_NAME" : "Butanilicaine / Epinephrine Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -648,7 +648,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.092427e+07,
+							"CONCEPT_ID" : 40924271,
 							"CONCEPT_NAME" : "Butanilicaine / Norepinephrine Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -665,7 +665,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.098662e+07,
+							"CONCEPT_ID" : 40986621,
 							"CONCEPT_NAME" : "Carbuterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -682,7 +682,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.083067e+07,
+							"CONCEPT_ID" : 40830666,
 							"CONCEPT_NAME" : "Cromoglycate / Isoproterenol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -699,7 +699,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.120566e+07,
+							"CONCEPT_ID" : 41205663,
 							"CONCEPT_NAME" : "Cromoglycate / reproterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -716,7 +716,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.086187e+07,
+							"CONCEPT_ID" : 40861866,
 							"CONCEPT_NAME" : "Cromoglycate / reproterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -733,7 +733,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.327434e+07,
+							"CONCEPT_ID" : 43274335,
 							"CONCEPT_NAME" : "Cromoglycate Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -750,7 +750,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.326332e+07,
+							"CONCEPT_ID" : 43263324,
 							"CONCEPT_NAME" : "Cromoglycate Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -767,7 +767,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.36216e+07,
+							"CONCEPT_ID" : 43621601,
 							"CONCEPT_NAME" : "Cromolyn / reproterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -818,7 +818,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014311e+07,
+							"CONCEPT_ID" : 40143105,
 							"CONCEPT_NAME" : "Cromolyn Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -835,7 +835,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.313442e+07,
+							"CONCEPT_ID" : 43134418,
 							"CONCEPT_NAME" : "Fenoterol / Ipratropium Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -852,7 +852,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.072783e+07,
+							"CONCEPT_ID" : 40727834,
 							"CONCEPT_NAME" : "Fenoterol / Ipratropium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -869,7 +869,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.681174e+07,
+							"CONCEPT_ID" : 36811735,
 							"CONCEPT_NAME" : "Fenoterol / Ipratropium Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -886,7 +886,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.086177e+07,
+							"CONCEPT_ID" : 40861768,
 							"CONCEPT_NAME" : "Fenoterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -903,7 +903,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.072784e+07,
+							"CONCEPT_ID" : 40727839,
 							"CONCEPT_NAME" : "Fenoterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -920,7 +920,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.515038e+07,
+							"CONCEPT_ID" : 35150375,
 							"CONCEPT_NAME" : "Fenoterol Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -937,7 +937,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.408162e+07,
+							"CONCEPT_ID" : 44081619,
 							"CONCEPT_NAME" : "Fenoterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -954,7 +954,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.681149e+07,
+							"CONCEPT_ID" : 36811485,
 							"CONCEPT_NAME" : "Ipratropium Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -988,7 +988,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014321e+07,
+							"CONCEPT_ID" : 40143214,
 							"CONCEPT_NAME" : "Ipratropium Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1056,7 +1056,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.280091e+07,
+							"CONCEPT_ID" : 42800913,
 							"CONCEPT_NAME" : "Isoproterenol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1073,7 +1073,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014333e+07,
+							"CONCEPT_ID" : 40143326,
 							"CONCEPT_NAME" : "Mometasone Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1090,7 +1090,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.689446e+07,
+							"CONCEPT_ID" : 36894464,
 							"CONCEPT_NAME" : "Mometasone Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1107,7 +1107,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.481788e+07,
+							"CONCEPT_ID" : 44817882,
 							"CONCEPT_NAME" : "Mometasone Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1124,7 +1124,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014334e+07,
+							"CONCEPT_ID" : 40143337,
 							"CONCEPT_NAME" : "Nedocromil Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1141,7 +1141,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.29416e+07,
+							"CONCEPT_ID" : 42941603,
 							"CONCEPT_NAME" : "Procaterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1158,7 +1158,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.514668e+07,
+							"CONCEPT_ID" : 35146684,
 							"CONCEPT_NAME" : "Procaterol Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1175,7 +1175,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.51602e+07,
+							"CONCEPT_ID" : 35160199,
 							"CONCEPT_NAME" : "Procaterol Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1192,7 +1192,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.402969e+07,
+							"CONCEPT_ID" : 44029688,
 							"CONCEPT_NAME" : "Procaterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1209,7 +1209,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.248192e+07,
+							"CONCEPT_ID" : 42481922,
 							"CONCEPT_NAME" : "Terbutaline Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1226,7 +1226,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.681348e+07,
+							"CONCEPT_ID" : 36813480,
 							"CONCEPT_NAME" : "Terbutaline Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1243,7 +1243,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.681241e+07,
+							"CONCEPT_ID" : 36812414,
 							"CONCEPT_NAME" : "Terbutaline Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1277,7 +1277,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.115079e+07,
+							"CONCEPT_ID" : 21150787,
 							"CONCEPT_NAME" : "aclidinium / formoterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1294,7 +1294,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.408213e+07,
+							"CONCEPT_ID" : 44082127,
 							"CONCEPT_NAME" : "aclidinium / formoterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1311,7 +1311,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.120608e+07,
+							"CONCEPT_ID" : 41206083,
 							"CONCEPT_NAME" : "aclidinium / formoterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1328,7 +1328,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.287341e+07,
+							"CONCEPT_ID" : 42873412,
 							"CONCEPT_NAME" : "aclidinium Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1345,7 +1345,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.406932e+07,
+							"CONCEPT_ID" : 44069324,
 							"CONCEPT_NAME" : "aclidinium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1362,7 +1362,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.123695e+07,
+							"CONCEPT_ID" : 41236953,
 							"CONCEPT_NAME" : "aclidinium Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1413,7 +1413,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.015266e+07,
+							"CONCEPT_ID" : 40152662,
 							"CONCEPT_NAME" : "ciclesonide Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1430,7 +1430,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.015638e+07,
+							"CONCEPT_ID" : 40156382,
 							"CONCEPT_NAME" : "flunisolide Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1447,7 +1447,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.104876e+07,
+							"CONCEPT_ID" : 41048760,
 							"CONCEPT_NAME" : "fluticasone / formoterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1464,7 +1464,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.075497e+07,
+							"CONCEPT_ID" : 40754973,
 							"CONCEPT_NAME" : "fluticasone / formoterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1481,7 +1481,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.108951e+07,
+							"CONCEPT_ID" : 21089505,
 							"CONCEPT_NAME" : "fluticasone / formoterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1498,7 +1498,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014402e+07,
+							"CONCEPT_ID" : 40144020,
 							"CONCEPT_NAME" : "fluticasone / salmeterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1515,7 +1515,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.688273e+07,
+							"CONCEPT_ID" : 36882733,
 							"CONCEPT_NAME" : "fluticasone / salmeterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1532,7 +1532,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.248274e+07,
+							"CONCEPT_ID" : 42482744,
 							"CONCEPT_NAME" : "fluticasone / salmeterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1549,7 +1549,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014402e+07,
+							"CONCEPT_ID" : 40144024,
 							"CONCEPT_NAME" : "fluticasone / salmeterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1583,7 +1583,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.075579e+07,
+							"CONCEPT_ID" : 40755794,
 							"CONCEPT_NAME" : "fluticasone / umeclidinium / vilanterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1600,7 +1600,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.759205e+07,
+							"CONCEPT_ID" : 37592046,
 							"CONCEPT_NAME" : "fluticasone / vilanterol / vilanterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1617,7 +1617,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353228e+07,
+							"CONCEPT_ID" : 43532281,
 							"CONCEPT_NAME" : "fluticasone / vilanterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1634,7 +1634,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.329109e+07,
+							"CONCEPT_ID" : 43291091,
 							"CONCEPT_NAME" : "fluticasone / vilanterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1651,7 +1651,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.12674e+07,
+							"CONCEPT_ID" : 41267401,
 							"CONCEPT_NAME" : "fluticasone / vilanterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1668,7 +1668,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014404e+07,
+							"CONCEPT_ID" : 40144035,
 							"CONCEPT_NAME" : "fluticasone Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1685,7 +1685,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.514799e+07,
+							"CONCEPT_ID" : 35147990,
 							"CONCEPT_NAME" : "fluticasone Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1702,7 +1702,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.514921e+07,
+							"CONCEPT_ID" : 35149212,
 							"CONCEPT_NAME" : "fluticasone Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1719,7 +1719,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.014404e+07,
+							"CONCEPT_ID" : 40144037,
 							"CONCEPT_NAME" : "fluticasone Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1736,7 +1736,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.022371e+07,
+							"CONCEPT_ID" : 40223712,
 							"CONCEPT_NAME" : "formoterol / Mometasone Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1753,7 +1753,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.262952e+07,
+							"CONCEPT_ID" : 42629522,
 							"CONCEPT_NAME" : "formoterol / glycopyrronium Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1770,7 +1770,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.248085e+07,
+							"CONCEPT_ID" : 42480849,
 							"CONCEPT_NAME" : "formoterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1821,7 +1821,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.410747e+07,
+							"CONCEPT_ID" : 44107471,
 							"CONCEPT_NAME" : "formoterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1838,7 +1838,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.314587e+07,
+							"CONCEPT_ID" : 43145868,
 							"CONCEPT_NAME" : "glycopyrronium / indacaterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1855,7 +1855,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.325995e+07,
+							"CONCEPT_ID" : 43259954,
 							"CONCEPT_NAME" : "glycopyrronium / indacaterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1889,7 +1889,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.514584e+07,
+							"CONCEPT_ID" : 35145836,
 							"CONCEPT_NAME" : "glycopyrronium / indacaterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1906,7 +1906,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.329258e+07,
+							"CONCEPT_ID" : 43292583,
 							"CONCEPT_NAME" : "glycopyrronium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1940,7 +1940,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.247957e+07,
+							"CONCEPT_ID" : 42479568,
 							"CONCEPT_NAME" : "indacaterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1974,7 +1974,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.405585e+07,
+							"CONCEPT_ID" : 44055847,
 							"CONCEPT_NAME" : "indacaterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -1991,7 +1991,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.408147e+07,
+							"CONCEPT_ID" : 44081467,
 							"CONCEPT_NAME" : "metaproterenol Gas for Inhalation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2025,7 +2025,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.018226e+07,
+							"CONCEPT_ID" : 40182262,
 							"CONCEPT_NAME" : "metaproterenol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2042,7 +2042,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.074609e+07,
+							"CONCEPT_ID" : 40746092,
 							"CONCEPT_NAME" : "olodaterol / tiotropium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2059,7 +2059,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.102629e+07,
+							"CONCEPT_ID" : 21026290,
 							"CONCEPT_NAME" : "olodaterol / tiotropium Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2076,7 +2076,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.627534e+07,
+							"CONCEPT_ID" : 46275343,
 							"CONCEPT_NAME" : "olodaterol / tiotropium Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2093,7 +2093,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.07461e+07,
+							"CONCEPT_ID" : 40746100,
 							"CONCEPT_NAME" : "olodaterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2110,7 +2110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.117457e+07,
+							"CONCEPT_ID" : 21174574,
 							"CONCEPT_NAME" : "olodaterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2127,7 +2127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577512e+07,
+							"CONCEPT_ID" : 45775117,
 							"CONCEPT_NAME" : "olodaterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2144,7 +2144,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.086161e+07,
+							"CONCEPT_ID" : 40861610,
 							"CONCEPT_NAME" : "oxitropium Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2161,7 +2161,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.681076e+07,
+							"CONCEPT_ID" : 36810762,
 							"CONCEPT_NAME" : "oxitropium Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2178,7 +2178,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.514709e+07,
+							"CONCEPT_ID" : 35147090,
 							"CONCEPT_NAME" : "oxitropium Inhalation Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2195,7 +2195,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.120538e+07,
+							"CONCEPT_ID" : 41205378,
 							"CONCEPT_NAME" : "pirbuterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2212,7 +2212,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.015269e+07,
+							"CONCEPT_ID" : 40152687,
 							"CONCEPT_NAME" : "pirbuterol Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2229,7 +2229,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.01677e+07,
+							"CONCEPT_ID" : 40167702,
 							"CONCEPT_NAME" : "salmeterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2246,7 +2246,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.51588e+07,
+							"CONCEPT_ID" : 35158799,
 							"CONCEPT_NAME" : "salmeterol Inhalation Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2297,7 +2297,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.248208e+07,
+							"CONCEPT_ID" : 42482075,
 							"CONCEPT_NAME" : "tiotropium Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2314,7 +2314,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.248261e+07,
+							"CONCEPT_ID" : 42482607,
 							"CONCEPT_NAME" : "tiotropium Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2348,7 +2348,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577477e+07,
+							"CONCEPT_ID" : 45774773,
 							"CONCEPT_NAME" : "tiotropium Metered Dose Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2365,7 +2365,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.642152e+07,
+							"CONCEPT_ID" : 36421515,
 							"CONCEPT_NAME" : "umeclidinium / umeclidinium / vilanterol / vilanterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2382,7 +2382,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.759234e+07,
+							"CONCEPT_ID" : 37592341,
 							"CONCEPT_NAME" : "umeclidinium / umeclidinium / vilanterol / vilanterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2399,7 +2399,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478591e+07,
+							"CONCEPT_ID" : 44785908,
 							"CONCEPT_NAME" : "umeclidinium / vilanterol Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2416,7 +2416,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.32639e+07,
+							"CONCEPT_ID" : 43263899,
 							"CONCEPT_NAME" : "umeclidinium / vilanterol Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2433,7 +2433,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.126717e+07,
+							"CONCEPT_ID" : 41267166,
 							"CONCEPT_NAME" : "umeclidinium / vilanterol Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2450,7 +2450,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577487e+07,
+							"CONCEPT_ID" : 45774869,
 							"CONCEPT_NAME" : "umeclidinium Dry Powder Inhaler",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2467,7 +2467,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.328571e+07,
+							"CONCEPT_ID" : 43285708,
 							"CONCEPT_NAME" : "umeclidinium Inhalant Powder",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -2484,7 +2484,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.114275e+07,
+							"CONCEPT_ID" : 41142750,
 							"CONCEPT_NAME" : "umeclidinium Inhalant Solution",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

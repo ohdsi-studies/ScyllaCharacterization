@@ -573,7 +573,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353067e+07,
+							"CONCEPT_ID" : 43530674,
 							"CONCEPT_NAME" : "Spontaneous cerebellar hemorrhage",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -590,7 +590,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.353073e+07,
+							"CONCEPT_ID" : 43530727,
 							"CONCEPT_NAME" : "Spontaneous cerebral hemorrhage",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -607,7 +607,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.253543e+07,
+							"CONCEPT_ID" : 42535425,
 							"CONCEPT_NAME" : "Spontaneous hemorrhage of cerebral hemisphere",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

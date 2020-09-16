@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.04831e+07,
+							"CONCEPT_ID" : 40483101,
 							"CONCEPT_NAME" : "Twin liveborn born in hospital by cesarean section",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048274e+07,
+							"CONCEPT_ID" : 40482735,
 							"CONCEPT_NAME" : "Liveborn born in hospital",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -585,7 +585,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575718e+07,
+							"CONCEPT_ID" : 45757175,
 							"CONCEPT_NAME" : "Preterm labor in second trimester with preterm delivery in second trimester",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -602,7 +602,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.575718e+07,
+							"CONCEPT_ID" : 45757176,
 							"CONCEPT_NAME" : "Preterm labor in third trimester with preterm delivery in third trimester",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -619,7 +619,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.67127e+07,
+							"CONCEPT_ID" : 36712702,
 							"CONCEPT_NAME" : "Preterm labor with preterm delivery",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -670,7 +670,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.27404e+07,
+							"CONCEPT_ID" : 42740403,
 							"CONCEPT_NAME" : "Subsequent intensive care, per day, for the evaluation and management of the recovering low birth weight infant (present body weight of 1500-2500 grams) Infants with present body weight of 1500-2500 grams who are no longer critically ill continue to requ",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

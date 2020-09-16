@@ -1,6 +1,9 @@
+# Please see code in extras/ProjectSetup.R to ensure
+# you have installed and initialized "renv" for this
+# project.
 library(ScyllaCharacterization)
 
-# Optional: specify where the temporary files (used by the Andromeda package) will be created:
+# Specify where the temporary files (used by the Andromeda package) will be created:
 andromedaTempFolder <- if (Sys.getenv("ANDROMEDA_TEMP_FOLDER") == "") "~/andromedaTemp" else Sys.getenv("ANDROMEDA_TEMP_FOLDER")
 options(andromedaTempFolder = andromedaTempFolder)
 
@@ -30,13 +33,13 @@ if (!is.null(connectionString)) {
 }
 
 # Details specific to the database:
-databaseId <- "CDM_CPRD_COVID_V1290"
-databaseName <- "CDM_CPRD_COVID_V1290"
-databaseDescription <- "CDM_CPRD_COVID_V1290"
+databaseId <- "CDM_HealthVerity_COVID_v1304"
+databaseName <- "CDM_HealthVerity_COVID_v1304"
+databaseDescription <- "CDM_HealthVerity_COVID_v1304"
 
 # Details for connecting to the CDM and storing the results
-cdmDatabaseSchema <- "CDM_CPRD_COVID_V1290.dbo"
-cohortDatabaseSchema <- "Scratch.dbo"
+cdmDatabaseSchema <- "cdm_1304"
+cohortDatabaseSchema <- "ohdsi_results_1304"
 cohortTable <- paste0("AS_ScyllaChar_", databaseId)
 cohortStagingTable <- paste0(cohortTable, "_stg")
 featureSummaryTable <- paste0(cohortTable, "_smry")

@@ -110,7 +110,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.04831e+07,
+							"CONCEPT_ID" : 40483101,
 							"CONCEPT_NAME" : "Twin liveborn born in hospital by cesarean section",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -127,7 +127,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048274e+07,
+							"CONCEPT_ID" : 40482735,
 							"CONCEPT_NAME" : "Liveborn born in hospital",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

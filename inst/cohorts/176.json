@@ -25,7 +25,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577091e+07,
+							"CONCEPT_ID" : 45770911,
 							"CONCEPT_NAME" : "Acute pneumonia due to coccidioidomycosis",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -93,7 +93,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.671284e+07,
+							"CONCEPT_ID" : 36712839,
 							"CONCEPT_NAME" : "Idiopathic pneumonia syndrome",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

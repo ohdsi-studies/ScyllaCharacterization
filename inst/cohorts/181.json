@@ -140,7 +140,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.588937e+07,
+							"CONCEPT_ID" : 45889365,
 							"CONCEPT_NAME" : "Dialysis Services and Procedures",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -191,7 +191,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.800343e+07,
+							"CONCEPT_ID" : 38003431,
 							"CONCEPT_NAME" : "Hemodialysis - Outpatient or Home - Hemodialysis/Composite or other rate",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

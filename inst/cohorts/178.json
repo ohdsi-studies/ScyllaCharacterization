@@ -157,7 +157,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048155e+07,
+							"CONCEPT_ID" : 40481547,
 							"CONCEPT_NAME" : "Dependence on ventilator",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -344,7 +344,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.711669e+07,
+							"CONCEPT_ID" : 37116689,
 							"CONCEPT_NAME" : "Insertion of endotracheal ventilation catheter",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -361,7 +361,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048754e+07,
+							"CONCEPT_ID" : 40487536,
 							"CONCEPT_NAME" : "Intubation of respiratory tract",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -395,7 +395,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720683e+07,
+							"CONCEPT_ID" : 37206832,
 							"CONCEPT_NAME" : "Mechanical insufflation exsufflation",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -446,7 +446,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.450948e+07,
+							"CONCEPT_ID" : 44509482,
 							"CONCEPT_NAME" : "Other specified ventilation support",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -497,7 +497,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.480856e+07,
+							"CONCEPT_ID" : 44808555,
 							"CONCEPT_NAME" : "Provision of mechanical ventilator",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -599,7 +599,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.58878e+07,
+							"CONCEPT_ID" : 45887795,
 							"CONCEPT_NAME" : "Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -616,7 +616,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.273885e+07,
+							"CONCEPT_ID" : 42738852,
 							"CONCEPT_NAME" : "Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; first day",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -633,7 +633,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.273885e+07,
+							"CONCEPT_ID" : 42738853,
 							"CONCEPT_NAME" : "Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; subsequent days",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -735,7 +735,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.479114e+07,
+							"CONCEPT_ID" : 44791135,
 							"CONCEPT_NAME" : "Ventilatory support",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

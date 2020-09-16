@@ -62,7 +62,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.739681e+07,
+							"CONCEPT_ID" : 37396808,
 							"CONCEPT_NAME" : "Cancer-related fatigue",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -130,7 +130,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720505e+07,
+							"CONCEPT_ID" : 37205051,
 							"CONCEPT_NAME" : "Fatigue due to chemotherapy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -147,7 +147,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.720505e+07,
+							"CONCEPT_ID" : 37205052,
 							"CONCEPT_NAME" : "Fatigue due to radiation therapy",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -164,7 +164,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.577272e+07,
+							"CONCEPT_ID" : 45772721,
 							"CONCEPT_NAME" : "Fatigue due to treatment",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -232,7 +232,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.482929e+07,
+							"CONCEPT_ID" : 44829293,
 							"CONCEPT_NAME" : "Malaise and fatigue",
 							"STANDARD_CONCEPT" : "N",
 							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
@@ -266,7 +266,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.482345e+07,
+							"CONCEPT_ID" : 44823445,
 							"CONCEPT_NAME" : "Other malaise and fatigue",
 							"STANDARD_CONCEPT" : "N",
 							"STANDARD_CONCEPT_CAPTION" : "Non-Standard",
@@ -300,7 +300,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.048461e+07,
+							"CONCEPT_ID" : 40484614,
 							"CONCEPT_NAME" : "Postexertional fatigue",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -351,7 +351,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478275e+07,
+							"CONCEPT_ID" : 44782753,
 							"CONCEPT_NAME" : "Weakness as a late effect of stroke",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",

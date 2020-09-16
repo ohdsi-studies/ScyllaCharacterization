@@ -40,9 +40,12 @@ runCohortDiagnostics <- function(connectionDetails = NULL,
     warning("andromedaTempFolder '", getOption("andromedaTempFolder"), "' not found. Attempting to create folder")
     dir.create(getOption("andromedaTempFolder"), recursive = TRUE)
   }
+  
   ParallelLogger::addDefaultFileLogger(file.path(diagnosticOutputFolder, "cohortDiagnosticsLog.txt"))
-  on.exit(ParallelLogger::unregisterLogger("DEFAULT"))
-
+  ParallelLogger::addDefaultErrorReportLogger(file.path(diagnosticOutputFolder, "ScyllaCharacterizationErrorReportR.txt"))
+  on.exit(ParallelLogger::unregisterLogger("DEFAULT_FILE_LOGGER", silent = TRUE))
+  on.exit(ParallelLogger::unregisterLogger("DEFAULT_ERRORREPORT_LOGGER", silent = TRUE), add = TRUE)
+  
   # Write out the system information
   ParallelLogger::logInfo(.systemInfo())
   

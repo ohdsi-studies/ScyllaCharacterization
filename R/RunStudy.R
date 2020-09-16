@@ -14,7 +14,6 @@ runStudy <- function(connectionDetails = NULL,
                      databaseId,
                      databaseName = databaseId,
                      databaseDescription = "",
-                     useBulkCharacterization = TRUE,
                      minCellCount = 5,
                      incremental = TRUE,
                      incrementalFolder = file.path(exportFolder, "RecordKeeping")) {
@@ -24,9 +23,11 @@ runStudy <- function(connectionDetails = NULL,
   if (!file.exists(exportFolder)) {
     dir.create(exportFolder, recursive = TRUE)
   }
-  
+
   ParallelLogger::addDefaultFileLogger(file.path(exportFolder, "ScyllaCharacterization.txt"))
-  on.exit(ParallelLogger::unregisterLogger("DEFAULT"))
+  ParallelLogger::addDefaultErrorReportLogger(file.path(outputFolder, "ScyllaCharacterizationErrorReportR.txt"))
+  on.exit(ParallelLogger::unregisterLogger("DEFAULT_FILE_LOGGER", silent = TRUE))
+  on.exit(ParallelLogger::unregisterLogger("DEFAULT_ERRORREPORT_LOGGER", silent = TRUE), add = TRUE)
   
   # Write out the system information
   ParallelLogger::logInfo(.systemInfo())
@@ -162,7 +163,7 @@ runStudy <- function(connectionDetails = NULL,
                                                                cdmDatabaseSchema = cdmDatabaseSchema,
                                                                oracleTempSchema = oracleTempSchema),
                          minObsPeriodDate = op$minObsPeriodDate,
-                         maxObsPeriodDate = op$minObsPeriodDate,
+                         maxObsPeriodDate = op$maxObsPeriodDate,
                          isMetaAnalysis = 0)
   writeToCsv(database, file.path(exportFolder, "database.csv"))
 
@@ -270,9 +271,10 @@ runStudy <- function(connectionDetails = NULL,
   packageMetadata <- data.frame(packageId = getThisPackageName(),
                                 packageVersion = packageVersionNumber,
                                 executionDate = start,
-                                params = as.character(jsonlite::toJSON(list(cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
-                                                               cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
-                                                               cohortGroups = cohortGroups))))
+                                params = as.character(jsonlite::toJSON(list(minCellCount = minCellCount,
+                                                                            cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
+                                                                            cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
+                                                                            cohortGroups = cohortGroups))))
   writeToCsv(packageMetadata, file.path(exportFolder, "package.csv"))
 
 

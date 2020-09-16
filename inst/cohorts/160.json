@@ -87,7 +87,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.478422e+07,
+							"CONCEPT_ID" : 44784217,
 							"CONCEPT_NAME" : "Cardiac arrhythmia",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -104,7 +104,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.800114e+07,
+							"CONCEPT_ID" : 38001137,
 							"CONCEPT_NAME" : "Cardiac arrhythmia & conduction disorders w CC",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -121,7 +121,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 3.800114e+07,
+							"CONCEPT_ID" : 38001138,
 							"CONCEPT_NAME" : "Cardiac arrhythmia & conduction disorders w/o CC/MCC",
 							"STANDARD_CONCEPT" : "S",
 							"STANDARD_CONCEPT_CAPTION" : "Standard",
@@ -180,7 +180,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 2.160025e+07,
+							"CONCEPT_ID" : 21600248,
 							"CONCEPT_NAME" : "ANTIARRHYTHMICS, CLASS I AND III",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -205,7 +205,7 @@
 				"items" : [
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.589033e+07,
+							"CONCEPT_ID" : 45890325,
 							"CONCEPT_NAME" : "Cardioversion, elective, electrical conversion of arrhythmia",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
@@ -222,7 +222,7 @@
 					},
 					{
 						"concept" : {
-							"CONCEPT_ID" : 4.58904e+07,
+							"CONCEPT_ID" : 45890400,
 							"CONCEPT_NAME" : "Operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure)",
 							"STANDARD_CONCEPT" : "C",
 							"STANDARD_CONCEPT_CAPTION" : "Classification",
