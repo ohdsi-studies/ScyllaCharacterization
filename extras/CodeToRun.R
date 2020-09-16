@@ -51,7 +51,6 @@ if (!dir.exists(outputFolder)) {
 setwd(outputFolder)
 
 # Details for running the study.
-useBulkCharacterization <- TRUE
 cohortIdsToExcludeFromExecution <- c()
 cohortIdsToExcludeFromResultsExport <- NULL
 
@@ -88,7 +87,6 @@ runStudy(connectionDetails = connectionDetails,
          cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
          cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
          incremental = TRUE,
-         useBulkCharacterization = useBulkCharacterization,
          minCellCount = minCellCount) 
 
 

@@ -39,7 +39,7 @@ runStudy <- function(connectionDetails = NULL,
       dir.create(incrementalFolder, recursive = TRUE)
     }
   }
-  
+
   if (!is.null(getOption("andromedaTempFolder")) && !file.exists(getOption("andromedaTempFolder"))) {
     warning("andromedaTempFolder '", getOption("andromedaTempFolder"), "' not found. Attempting to create folder")
     dir.create(getOption("andromedaTempFolder"), recursive = TRUE)
@@ -49,7 +49,7 @@ runStudy <- function(connectionDetails = NULL,
     connection <- DatabaseConnector::connect(connectionDetails)
     on.exit(DatabaseConnector::disconnect(connection))
   }
-  
+
   # Instantiate cohorts -----------------------------------------------------------------------
   cohorts <- getCohortsToCreate()
   # Remove any cohorts that are to be excluded
@@ -57,7 +57,7 @@ runStudy <- function(connectionDetails = NULL,
   targetCohortIds <- cohorts[cohorts$cohortType %in% cohortGroups, "cohortId"][[1]]
   subgroupCohortIds <- cohorts[cohorts$cohortType == "subgroup", "cohortId"][[1]]
   featureCohortIds <- cohorts[cohorts$cohortType == "feature", "cohortId"][[1]]
-  
+
   # Start with the target cohorts
   if (length(targetCohortIds) > 0) {
     ParallelLogger::logInfo("**********************************************************")
@@ -152,12 +152,17 @@ runStudy <- function(connectionDetails = NULL,
 
   # Save database metadata ---------------------------------------------------------------
   ParallelLogger::logInfo("Saving database metadata")
+  op <- getObservationPeriodDateRange(connection, 
+                                      cdmDatabaseSchema = cdmDatabaseSchema, 
+                                      oracleTempSchema = oracleTempSchema)
   database <- data.frame(databaseId = databaseId,
                          databaseName = databaseName,
                          description = databaseDescription,
                          vocabularyVersion = getVocabularyInfo(connection = connection,
                                                                cdmDatabaseSchema = cdmDatabaseSchema,
                                                                oracleTempSchema = oracleTempSchema),
+                         minObsPeriodDate = op$minObsPeriodDate,
+                         maxObsPeriodDate = op$minObsPeriodDate,
                          isMetaAnalysis = 0)
   writeToCsv(database, file.path(exportFolder, "database.csv"))
 
@@ -237,71 +242,17 @@ runStudy <- function(connectionDetails = NULL,
   # Subset the cohorts to the target/subgroup for running feature extraction
   # that are >= 140 per protocol to improve efficency
   featureExtractionCohorts <-  loadCohortsForExportWithChecksumFromPackage(counts[counts$cohortSubjects >= getMinimumSubjectCountForCharacterization(), c("cohortId")]$cohortId)
-  # Bulk approach ----------------------
-  if (useBulkCharacterization) {
-    ParallelLogger::logInfo("********************************************************************************************")
-    ParallelLogger::logInfo("Bulk characterization of all cohorts for all time windows")
-    ParallelLogger::logInfo("********************************************************************************************")
-    createBulkCharacteristics(connection,
-                              oracleTempSchema,
-                              cohortIds = featureExtractionCohorts$cohortId,
-                              cdmDatabaseSchema,
-                              cohortDatabaseSchema,
-                              cohortTable)
-    writeBulkCharacteristics(connection, oracleTempSchema, counts, minCellCount, databaseId, exportFolder)
-  } else {
-    # Sequential Approach --------------------------------
-    if (incremental) {
-      recordKeepingFile <- file.path(incrementalFolder, "CreatedAnalyses.csv")
-    }
-    featureTimeWindows <- getFeatureTimeWindows()
-    for (i in 1:nrow(featureTimeWindows)) {
-      windowStart <- featureTimeWindows$windowStart[i]
-      windowEnd <- featureTimeWindows$windowEnd[i]
-      windowId <- featureTimeWindows$windowId[i]
-      ParallelLogger::logInfo("********************************************************************************************")
-      ParallelLogger::logInfo(paste0("Characterize concept features for start: ", windowStart, ", end: ", windowEnd, " (windowId=", windowId, ")"))
-      ParallelLogger::logInfo("********************************************************************************************")
-      createDemographics <- (i == 1)
-      covariateSettings <- FeatureExtraction::createCovariateSettings(useDemographicsGender = createDemographics,
-                                                                      useDemographicsAgeGroup = createDemographics,
-                                                                      useConditionGroupEraShortTerm = TRUE,
-                                                                      useDrugGroupEraShortTerm = TRUE,
-                                                                      shortTermStartDays = windowStart,
-                                                                      endDays = windowEnd)
-      task <- paste0("runCohortCharacterizationWindowId", windowId)
-      if (incremental) {
-        subset <- subsetToRequiredCohorts(cohorts = featureExtractionCohorts,
-                                          task = task,
-                                          incremental = incremental,
-                                          recordKeepingFile = recordKeepingFile)
-      } else {
-        subset <- featureExtractionCohorts
-      }
+  ParallelLogger::logInfo("********************************************************************************************")
+  ParallelLogger::logInfo("Bulk characterization of all cohorts for all time windows")
+  ParallelLogger::logInfo("********************************************************************************************")
+  createBulkCharacteristics(connection,
+                            oracleTempSchema,
+                            cohortIds = featureExtractionCohorts$cohortId,
+                            cdmDatabaseSchema,
+                            cohortDatabaseSchema,
+                            cohortTable)
+  writeBulkCharacteristics(connection, oracleTempSchema, counts, minCellCount, databaseId, exportFolder)
 
-      if (nrow(subset) > 0) {
-        for (j in 1:nrow(subset)) {
-          data <- runCohortCharacterization(cohortId = subset$cohortId[j],
-                                            cohortName = subset$cohortName[j],
-                                            covariateSettings = covariateSettings,
-                                            windowId = windowId,
-                                            curIndex = j,
-                                            totalCount = nrow(subset))
-          covariates <- formatCovariates(data)
-          writeToCsv(covariates, file.path(exportFolder, "covariate.csv"), incremental = incremental, covariateId = covariates$covariateId)
-          data <- formatCovariateValues(data, counts, minCellCount, databaseId)
-          writeToCsv(data, file.path(exportFolder, "covariate_value.csv"), incremental = incremental, cohortId = data$cohortId, data$covariateId)
-          if (incremental) {
-            recordTasksDone(cohortId = subset$cohortId[j],
-                            task = task,
-                            checksum = subset$checksum[j],
-                            recordKeepingFile = recordKeepingFile,
-                            incremental = incremental)
-          }
-        }
-      }
-    }
-  }
 
   # Format results -----------------------------------------------------------------------------------
   ParallelLogger::logInfo("********************************************************************************************")
@@ -312,7 +263,7 @@ runStudy <- function(connectionDetails = NULL,
   cv <- readr::read_csv(file.path(exportFolder, "covariate_value.csv"), col_types = readr::cols())
   cv <- unique(cv)
   writeToCsv(cv, file.path(exportFolder, "covariate_value.csv"), incremental = FALSE)
-  
+
   # Save package metadata ---------------------------------------------------------------
   ParallelLogger::logInfo("Saving package metadata")
   packageVersionNumber <- packageVersion(getThisPackageName())
@@ -323,8 +274,8 @@ runStudy <- function(connectionDetails = NULL,
                                                                cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
                                                                cohortGroups = cohortGroups))))
   writeToCsv(packageMetadata, file.path(exportFolder, "package.csv"))
-  
-  
+
+
   # Export to zip file -------------------------------------------------------------------------------
   exportResults(exportFolder, databaseId, cohortIdsToExcludeFromResultsExport)
   delta <- Sys.time() - start
@@ -388,6 +339,15 @@ getVocabularyInfo <- function(connection, cdmDatabaseSchema, oracleTempSchema) {
   sql <- SqlRender::translate(sql, targetDialect = attr(connection, "dbms"), oracleTempSchema = oracleTempSchema)
   vocabInfo <- DatabaseConnector::querySql(connection, sql)
   return(vocabInfo[[1]])
+}
+
+getObservationPeriodDateRange <- function(connection, cdmDatabaseSchema, oracleTempSchema) {
+  sql <- "SELECT MIN(observation_period_start_date) min_obs_period_date, MAX(observation_period_end_date) max_obs_period_date FROM @cdm_database_schema.observation_period;"
+  sql <- SqlRender::render(sql, cdm_database_schema = cdmDatabaseSchema)
+  sql <- SqlRender::translate(sql, targetDialect = attr(connection, "dbms"), oracleTempSchema = oracleTempSchema)
+  op <- DatabaseConnector::querySql(connection, sql)
+  names(op) <- SqlRender::snakeCaseToCamelCase(names(op))
+  return(op)
 }
 
 #' @export
