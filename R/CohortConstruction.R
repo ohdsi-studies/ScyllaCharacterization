@@ -482,6 +482,25 @@ saveAndDropTempInclusionStatsTables <- function(connection,
                                                oracleTempSchema = oracleTempSchema)
 }
 
+#' Copy the cohorts from the cohortStagingTable to the cohortTable and censor based on the minCellCount
+#'
+#' @description
+#' This function will copy the cohorts from the cohortStagingTable to the cohortTable that have a count
+#' of subjects greater than the minCellCount. 
+#'
+#' @template Connection
+#'
+#' @template CohortStagingTable
+#'
+#' @template CohortTable
+#' 
+#' @param targetIds                    A vector containing the target cohort IDs consider when copying to the main table
+#'                                     This will copy over any subgroups associated with these target cohort IDs
+#' @param minCellCount                 The minimum count of patients required when copying a cohor to the main table. Cohorts
+#'                                     at or below this threshold are excluded
+#' @template OracleTempSchema
+#'
+#' @export
 copyAndCensorCohorts <- function(connection,
                                  cohortDatabaseSchema,
                                  cohortStagingTable,
