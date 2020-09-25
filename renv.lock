@@ -317,15 +317,9 @@
     },
     "RSQLite": {
       "Package": "RSQLite",
-      "Version": "2.2.0.9000",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "r-dbi",
-      "RemoteRepo": "RSQLite",
-      "RemoteRef": "master",
-      "RemoteSha": "0b574a33f5b4e6f374a0b79bcac56d537bfaf582",
-      "Hash": "cff6aae06e795fce9c4a2235e4084d37"
+      "Version": "2.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
     },
     "snow": {
       "Package": "snow",

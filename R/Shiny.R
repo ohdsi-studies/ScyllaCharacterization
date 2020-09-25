@@ -33,6 +33,22 @@ launchShinyApp <- function(outputFolder,
   shiny::runApp(appDir)
 }
 
+#' @export
+launchDiagnosticsShinyApp <- function(outputFolder) {
+  ensure_installed("shiny")
+  ensure_installed("shinydashboard")
+  ensure_installed("shinyWidgets")
+  ensure_installed("DT")
+  ensure_installed("VennDiagram")
+  ensure_installed("htmltools")
+  ensure_installed("scales")
+  appDir <- system.file("shiny", "DiagnosticsExplorer", package = getThisPackageName(), mustWork = TRUE)
+  shinySettings <- list(dataFolder = outputFolder)
+  .GlobalEnv$shinySettings <- shinySettings
+  on.exit(rm(shinySettings, envir = .GlobalEnv))
+  shiny::runApp(appDir)  
+}
+
 #' Premerge Shiny results files
 #' 
 #' @description 
