@@ -1,7 +1,7 @@
 Project Sc(y)lla Characterization: SARS-Cov-2 Large-scale Longitudinal Analyses on the comparative safety and effectiveness of treatments under evaluation for COVID-19 across an international observational data network
 ===========================================================================================
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Design%20Finalized-brightgreen.svg" alt="Study Status: Design Finalized">
 
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
@@ -12,7 +12,7 @@ Project Sc(y)lla Characterization: SARS-Cov-2 Large-scale Longitudinal Analyses 
 - Study end date: **TBD**
 - Protocol: **[PDF](https://www.ohdsi.org/wp-content/uploads/2020/05/OHDSI-SCYLLA-PLE-COVID-effectiveness-protocol-v1.0-final-with-appendix.pdf)**
 - Publications: **-**
-- Results explorer: **TBD**
+- Results explorer: **https://data.ohdsi.org/ScyllaCharacterization/**
 
 **Objectives:**
 The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment.

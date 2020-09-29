@@ -6,7 +6,7 @@
 \alias{ScyllaCharacterization-package}
 \title{ScyllaCharacterization: Characterize all emerging drug therapies used in COVID-19 treatment}
 \description{
-The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment.Specifically, the study aims to chararacterize: 1) Treatments administered during hospitalization and prior to intensive services, 2) Treatments administered during hospitalization after initiating intensive services, 3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization.
+The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment. Specifically, the study aims to chararacterize: 1) Treatments administered during hospitalization and prior to intensive services, 2) Treatments administered during hospitalization after initiating intensive services, 3) Treatments administered after COVID-19 positive testing or diagnosis in outpatient setting without prior hospitalization.
 }
 \seealso{
 Useful links:

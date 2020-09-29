@@ -1,3 +1,20 @@
+#' Create bulk subgroup cohorts
+#'
+#' @description
+#' This function wraps together 2 calls: @insertRef{createBulkSubgroupFromFile} and @insertRef{createBulkSubgroupFromCohorts}.
+#' This function assumes that cohorts are already generated and located in the cohortDatabaseSchema.cohortStagingTable
+#'
+#' @template Connection
+#' 
+#' @template CdmDatabaseSchema
+#'
+#' @template CohortStagingTable
+#' 
+#' @param targetIds                    A vector containing the target IDs to subgroup
+#' 
+#' @template OracleTempSchema
+#'
+#' @export
 createBulkSubgroup <- function(connection,
                              cdmDatabaseSchema,
                              cohortDatabaseSchema,
@@ -22,6 +39,25 @@ createBulkSubgroup <- function(connection,
   
 }
 
+#' Create bulk subgroups from settings file
+#'
+#' @description
+#' This function creates subgroups of the target cohorts based on the settings file
+#' located in inst/settings/BulkSubgroup.csv
+#' 
+#' This function assumes that cohorts are already generated and located in the cohortDatabaseSchema.cohortStagingTable
+#'
+#' @template Connection
+#' 
+#' @template CdmDatabaseSchema
+#'
+#' @template CohortStagingTable
+#' 
+#' @param targetIds                    A vector containing the target cohort IDs to subgroup
+#' 
+#' @template OracleTempSchema
+#'
+#' @export
 createBulkSubgroupFromFile <- function(connection,
                                      cdmDatabaseSchema,
                                      cohortDatabaseSchema,
@@ -62,6 +98,23 @@ createBulkSubgroupFromFile <- function(connection,
 
 }
 
+#' Create subgroup cohorts by finding the intersection of target cohorts with subgroup cohorts
+#'
+#' @description
+#' This function creates subgroups of the target cohorts based on combinations defined in
+#' inst/settings/targetSubgroupXref.csv
+#' 
+#' This function assumes that cohorts are already generated and located in the cohortDatabaseSchema.cohortStagingTable
+#'
+#' @template Connection
+#' 
+#' @template CohortStagingTable
+#' 
+#' @param targetIds                    A vector containing the target IDs to subgroup
+#' 
+#' @template OracleTempSchema
+#'
+#' @export
 createBulkSubgroupFromCohorts <- function(connection,
                                         cohortDatabaseSchema,
                                         cohortStagingTable,

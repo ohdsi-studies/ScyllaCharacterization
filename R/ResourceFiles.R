@@ -1,3 +1,9 @@
+#' Get the bulk subgroups from the resource file
+#'
+#' @description
+#' Reads the settings in /inst/settings/BulkSubgroup.csv
+#'
+#' @export
 getBulkSubgroup <- function() {
   resourceFile <- file.path(getPathToResource(), "BulkSubgroup.csv")
   return(readCsv(resourceFile))
@@ -12,16 +18,34 @@ getCohortGroupsForDiagnostics <- function () {
   return(readCsv(resourceFile))
 }
 
+#' Get the cohort groups from the resource file
+#'
+#' @description
+#' Reads the settings in /inst/settings/CohortGroups.csv
+#'
+#' @export
 getCohortGroups <- function () {
   resourceFile <- file.path(getPathToResource(), "CohortGroups.csv")
   return(readCsv(resourceFile))
 }
 
+#' Get the cohort subgroups from the resource file
+#'
+#' @description
+#' Reads the settings in /inst/settings/CohortsToCreateSubgroup.csv
+#'
+#' @export
 getCohortBasedSubgroup <- function() {
   resourceFile <- file.path(getPathToResource(), "CohortsToCreateSubgroup.csv")
   return(readCsv(resourceFile))
 }
 
+#' Get the cohort used for features from the resorce file
+#'
+#' @description
+#' Reads the settings in /inst/settings/CohortsToCreateFeature.csv
+#'
+#' @export
 getFeatures <- function() {
   resourceFile <- file.path(getPathToResource(), "CohortsToCreateFeature.csv")
   return(readCsv(resourceFile))
@@ -32,11 +56,23 @@ getFeatureTimeWindows <- function() {
   return(readCsv(resourceFile))
 }
 
+#' Get the list of sub-grouped target cohorts
+#'
+#' @description
+#' Reads the settings in /inst/settings/targetSubgroupXref.csv
+#'
+#' @export
 getTargetSubgroupXref <- function() {
   resourceFile <- file.path(getPathToResource(), "targetSubgroupXref.csv")
   return(readCsv(resourceFile))
 }
 
+#' Get the full list of cohorts to create for the study
+#'
+#' @description
+#' Reads inst/settings/CohortGroups.csv and creates a list of all cohorts
+#' from the indvidual resource files. Returns a concatenated list of cohorts
+#'
 #' @export
 getCohortsToCreate <- function(cohortGroups = getCohortGroups()) {
   packageName <- getThisPackageName()
@@ -97,7 +133,8 @@ getThisPackageName <- function() {
   return("ScyllaCharacterization")
 }
 
-readCsv <- function(resourceFile) {
+#' @export
+readCsv <- function(resourceFile, packageName = getThisPackageName()) {
   packageName <- getThisPackageName()
   pathToCsv <- system.file(resourceFile, package = packageName, mustWork = TRUE)
   fileContents <- readr::read_csv(pathToCsv, col_types = readr::cols())
