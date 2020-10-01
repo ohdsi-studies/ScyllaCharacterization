@@ -33,20 +33,20 @@ if (!is.null(connectionString)) {
 }
 
 # Details specific to the database:
-databaseId <- "CDM_HealthVerity_COVID_v1304"
-databaseName <- "CDM_HealthVerity_COVID_v1304"
-databaseDescription <- "CDM_HealthVerity_COVID_v1304"
+databaseId <- "OptumEhr1351"
+databaseName <- "OptumEhr1351"
+databaseDescription <- "OptumEhr1351"
 
 # Details for connecting to the CDM and storing the results
-cdmDatabaseSchema <- "cdm_1304"
-cohortDatabaseSchema <- "ohdsi_results_1304"
+cdmDatabaseSchema <- "cdm_1351"
+cohortDatabaseSchema <- "ohdsi_results_1351"
 cohortTable <- paste0("AS_ScyllaChar_", databaseId)
 cohortStagingTable <- paste0(cohortTable, "_stg")
 featureSummaryTable <- paste0(cohortTable, "_smry")
 minCellCount <- 5
 
 # Set the folder for holding the study output
-projectRootFolder <- "E:/ScyllaCharacterization"
+projectRootFolder <- "E:/ScyllaCharacterization/Runs"
 outputFolder <- file.path(projectRootFolder, databaseId)
 if (!dir.exists(outputFolder)) {
   dir.create(outputFolder)
