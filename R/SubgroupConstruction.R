@@ -92,8 +92,8 @@ createBulkSubgroupFromFile <- function(connection,
                                                subgroup_cohort_id = bulkSubgroupToCreate$subgroupCohortId[i],
                                                target_subgroup_xref_table_create = tsXrefTempTableSql$create,
                                                target_subgroup_xref_table_drop = tsXrefTempTableSql$drop)
-      #DatabaseConnector::executeSql(connection, sql)
-      write(sql,paste0(i, ".sql"))
+      DatabaseConnector::executeSql(connection, sql)
+      #write(sql,paste0(i, ".sql"))
     }    
   }
 
