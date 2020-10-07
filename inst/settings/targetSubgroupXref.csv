@@ -1,93 +1,360 @@
 targetId,subgroupId,cohortId,cohortType,name
-1001,1,1001000011,TwS,"Hydroxychloroquine  with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1002,1,1002000011,TwS,"Hydroxychloroquine + Azithromycin  with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1003,1,1003000011,TwS,"Hydroxychloroquine + Fluoroquinolones with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1004,1,1004000011,TwS,"Hydroxychloroquine + Amoxicillin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1005,1,1005000011,TwS,"Hydroxychloroquine + ceftriaxone with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1006,1,1006000011,TwS,"Chloroquine with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1007,1,1007000011,TwS,"Azithromycin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1008,1,1008000011,TwS,"Fluoroquinolones with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1009,1,1009000011,TwS,"Amoxicillin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1010,1,1010000011,TwS,"Ceftriaxone with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1011,1,1011000011,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1012,1,1012000011,TwS,"tocilizumab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1013,1,1013000011,TwS,"siltuximab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1014,1,1014000011,TwS,"sarilumab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1015,1,1015000011,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1016,1,1016000011,TwS,"baricitinib with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1017,1,1017000011,TwS,"tofacitinib with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1018,1,1018000011,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1019,1,1019000011,TwS,"adalimumab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1020,1,1020000011,TwS,"etanercept with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1021,1,1021000011,TwS,"infliximab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1022,1,1022000011,TwS,"ustekinumab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1023,1,1023000011,TwS,"Anakinra with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1024,1,1024000011,TwS,"HIV Protease inhibitors with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1025,1,1025000011,TwS,"ritonavir/lopinavir with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1026,1,1026000011,TwS,"Interferon beta 1b with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1027,1,1027000011,TwS,"Interferon beta 1a with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1028,1,1028000011,TwS,"Interferon alfa 2a with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1029,1,1029000011,TwS,"favipiravir with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1030,1,1030000011,TwS,"Remdesivir with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1031,1,1031000011,TwS,"ribavirin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1032,1,1032000011,TwS,"oseltamivir with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1033,1,1033000011,TwS,"Ivermectin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1034,1,1034000011,TwS,"itraconazole with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1035,1,1035000011,TwS,"warfarin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1036,1,1036000011,TwS,"heparin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1037,1,1037000011,TwS,"enoxaparin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1038,1,1038000011,TwS,"edoxaban with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1039,1,1039000011,TwS,"dabigatran with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1040,1,1040000011,TwS,"rivaroxaban with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1041,1,1041000011,TwS,"acenocoumarol with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1042,1,1042000011,TwS,"apixaban with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1043,1,1043000011,TwS,"bemiparin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1044,1,1044000011,TwS,"clopidogrel with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1045,1,1045000011,TwS,"aspirin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1046,1,1046000011,TwS,"prasugrel with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1047,1,1047000011,TwS,"alteplase with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1048,1,1048000011,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1049,1,1049000011,TwS,"tranexamic acid with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1050,1,1050000011,TwS,"Ruxolitinib with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1052,1,1052000011,TwS,"ACE inhibitors with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1053,1,1053000011,TwS,"Angiotensin receptor blockers (ARBs) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1054,1,1054000011,TwS,"Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1055,1,1055000011,TwS,"Thiazide or thiazide-like diuretics with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1056,1,1056000011,TwS,"Hydrocortisone with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1057,1,1057000011,TwS,"dexamethasone with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1058,1,1058000011,TwS,"prednisone or prednisolone with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1059,1,1059000011,TwS,"raloxifene with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1060,1,1060000011,TwS,"Bevacizumab with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1061,1,1061000011,TwS,"Fingolimod with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1062,1,1062000011,TwS,"eculizumab  with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1063,1,1063000011,TwS,"Statins with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1064,1,1064000011,TwS,"metformin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1065,1,1065000011,TwS,"DPP-4 inhibitors with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1066,1,1066000011,TwS,"SGLT2 inhibitors with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1067,1,1067000011,TwS,"GLP1 inhibitors with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1068,1,1068000011,TwS,"H2 receptor antagonist with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1069,1,1069000011,TwS,"famotidine with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1070,1,1070000011,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1071,1,1071000011,TwS,"prazosin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1072,1,1072000011,TwS,"terazosin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1073,1,1073000011,TwS,"doxazosin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1074,1,1074000011,TwS,"tamsulosin with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1075,1,1075000011,TwS,"BCG vaccine with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1076,1,1076000011,TwS,"Colchicine with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1077,1,1077000011,TwS,"Losartan with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1078,1,1078000011,TwS,"cholecalciferol with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1079,1,1079000011,TwS,"Ibrutinib with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1080,1,1080000011,TwS,"abiraterone with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1081,1,1081000011,TwS,"bicalutamide with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1082,1,1082000011,TwS,"emtricitabine with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1083,1,1083000011,TwS,"tacrolimus with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1100,1,1100000011,TwS,"antivirals in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1101,1,1101000011,TwS,"immune-based therapies in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1102,1,1102000011,TwS,"antithrombotics in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1103,1,1103000011,TwS,"antibiotics in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1104,1,1104000011,TwS,"concomitant cardiovascular prevention therapies in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1105,1,1105000011,TwS,"antidiabetics in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
-1106,1,1106000011,TwS,"concomitant therapies in SCYLLA with Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation"
+1001,1,1001000011,TwS,Hydroxychloroquine  with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1002,1,1002000011,TwS,Hydroxychloroquine + Azithromycin  with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1003,1,1003000011,TwS,Hydroxychloroquine + Fluoroquinolones with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1004,1,1004000011,TwS,Hydroxychloroquine + Amoxicillin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1005,1,1005000011,TwS,Hydroxychloroquine + ceftriaxone with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1006,1,1006000011,TwS,Chloroquine with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1007,1,1007000011,TwS,Azithromycin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1008,1,1008000011,TwS,Fluoroquinolones with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1009,1,1009000011,TwS,Amoxicillin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1010,1,1010000011,TwS,Ceftriaxone with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1011,1,1011000011,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation"
+1012,1,1012000011,TwS,tocilizumab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1013,1,1013000011,TwS,siltuximab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1014,1,1014000011,TwS,sarilumab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1015,1,1015000011,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation"
+1016,1,1016000011,TwS,baricitinib with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1017,1,1017000011,TwS,tofacitinib with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1018,1,1018000011,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation"
+1019,1,1019000011,TwS,adalimumab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1020,1,1020000011,TwS,etanercept with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1021,1,1021000011,TwS,infliximab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1022,1,1022000011,TwS,ustekinumab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1023,1,1023000011,TwS,Anakinra with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1024,1,1024000011,TwS,HIV Protease inhibitors with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1025,1,1025000011,TwS,ritonavir/lopinavir with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1026,1,1026000011,TwS,Interferon beta 1b with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1027,1,1027000011,TwS,Interferon beta 1a with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1028,1,1028000011,TwS,Interferon alfa 2a with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1029,1,1029000011,TwS,favipiravir with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1030,1,1030000011,TwS,Remdesivir with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1031,1,1031000011,TwS,ribavirin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1032,1,1032000011,TwS,oseltamivir with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1033,1,1033000011,TwS,Ivermectin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1034,1,1034000011,TwS,itraconazole with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1035,1,1035000011,TwS,warfarin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1036,1,1036000011,TwS,heparin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1037,1,1037000011,TwS,enoxaparin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1038,1,1038000011,TwS,edoxaban with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1039,1,1039000011,TwS,dabigatran with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1040,1,1040000011,TwS,rivaroxaban with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1041,1,1041000011,TwS,acenocoumarol with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1042,1,1042000011,TwS,apixaban with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1043,1,1043000011,TwS,bemiparin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1044,1,1044000011,TwS,clopidogrel with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1045,1,1045000011,TwS,aspirin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1046,1,1046000011,TwS,prasugrel with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1047,1,1047000011,TwS,alteplase with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1048,1,1048000011,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation"
+1049,1,1049000011,TwS,tranexamic acid with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1050,1,1050000011,TwS,Ruxolitinib with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1052,1,1052000011,TwS,ACE inhibitors with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1053,1,1053000011,TwS,Angiotensin receptor blockers (ARBs) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1054,1,1054000011,TwS,Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1055,1,1055000011,TwS,Thiazide or thiazide-like diuretics with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1056,1,1056000011,TwS,Hydrocortisone with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1057,1,1057000011,TwS,dexamethasone with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1058,1,1058000011,TwS,prednisone or prednisolone with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1059,1,1059000011,TwS,raloxifene with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1060,1,1060000011,TwS,Bevacizumab with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1061,1,1061000011,TwS,Fingolimod with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1062,1,1062000011,TwS,eculizumab  with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1063,1,1063000011,TwS,Statins with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1064,1,1064000011,TwS,metformin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1065,1,1065000011,TwS,DPP-4 inhibitors with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1066,1,1066000011,TwS,SGLT2 inhibitors with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1067,1,1067000011,TwS,GLP1 inhibitors with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1068,1,1068000011,TwS,H2 receptor antagonist with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1069,1,1069000011,TwS,famotidine with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1070,1,1070000011,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation"
+1071,1,1071000011,TwS,prazosin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1072,1,1072000011,TwS,terazosin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1073,1,1073000011,TwS,doxazosin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1074,1,1074000011,TwS,tamsulosin with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1075,1,1075000011,TwS,BCG vaccine with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1076,1,1076000011,TwS,Colchicine with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1077,1,1077000011,TwS,Losartan with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1078,1,1078000011,TwS,cholecalciferol with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1079,1,1079000011,TwS,Ibrutinib with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1080,1,1080000011,TwS,abiraterone with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1081,1,1081000011,TwS,bicalutamide with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1082,1,1082000011,TwS,emtricitabine with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1083,1,1083000011,TwS,tacrolimus with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1100,1,1100000011,TwS,antivirals in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1101,1,1101000011,TwS,immune-based therapies in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1102,1,1102000011,TwS,antithrombotics in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1103,1,1103000011,TwS,antibiotics in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1104,1,1104000011,TwS,concomitant cardiovascular prevention therapies in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1105,1,1105000011,TwS,antidiabetics in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1106,1,1106000011,TwS,concomitant therapies in SCYLLA with Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation
+1001,2,1001000021,TwS,"Hydroxychloroquine  with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1002,2,1002000021,TwS,"Hydroxychloroquine + Azithromycin  with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1003,2,1003000021,TwS,"Hydroxychloroquine + Fluoroquinolones with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1004,2,1004000021,TwS,"Hydroxychloroquine + Amoxicillin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1005,2,1005000021,TwS,"Hydroxychloroquine + ceftriaxone with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1006,2,1006000021,TwS,"Chloroquine with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1007,2,1007000021,TwS,"Azithromycin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1008,2,1008000021,TwS,"Fluoroquinolones with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1009,2,1009000021,TwS,"Amoxicillin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1010,2,1010000021,TwS,"Ceftriaxone with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1011,2,1011000021,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1012,2,1012000021,TwS,"tocilizumab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1013,2,1013000021,TwS,"siltuximab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1014,2,1014000021,TwS,"sarilumab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1015,2,1015000021,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1016,2,1016000021,TwS,"baricitinib with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1017,2,1017000021,TwS,"tofacitinib with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1018,2,1018000021,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1019,2,1019000021,TwS,"adalimumab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1020,2,1020000021,TwS,"etanercept with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1021,2,1021000021,TwS,"infliximab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1022,2,1022000021,TwS,"ustekinumab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1023,2,1023000021,TwS,"Anakinra with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1024,2,1024000021,TwS,"HIV Protease inhibitors with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1025,2,1025000021,TwS,"ritonavir/lopinavir with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1026,2,1026000021,TwS,"Interferon beta 1b with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1027,2,1027000021,TwS,"Interferon beta 1a with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1028,2,1028000021,TwS,"Interferon alfa 2a with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1029,2,1029000021,TwS,"favipiravir with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1030,2,1030000021,TwS,"Remdesivir with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1031,2,1031000021,TwS,"ribavirin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1032,2,1032000021,TwS,"oseltamivir with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1033,2,1033000021,TwS,"Ivermectin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1034,2,1034000021,TwS,"itraconazole with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1035,2,1035000021,TwS,"warfarin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1036,2,1036000021,TwS,"heparin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1037,2,1037000021,TwS,"enoxaparin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1038,2,1038000021,TwS,"edoxaban with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1039,2,1039000021,TwS,"dabigatran with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1040,2,1040000021,TwS,"rivaroxaban with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1041,2,1041000021,TwS,"acenocoumarol with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1042,2,1042000021,TwS,"apixaban with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1043,2,1043000021,TwS,"bemiparin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1044,2,1044000021,TwS,"clopidogrel with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1045,2,1045000021,TwS,"aspirin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1046,2,1046000021,TwS,"prasugrel with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1047,2,1047000021,TwS,"alteplase with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1048,2,1048000021,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1049,2,1049000021,TwS,"tranexamic acid with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1050,2,1050000021,TwS,"Ruxolitinib with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1052,2,1052000021,TwS,"ACE inhibitors with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1053,2,1053000021,TwS,"Angiotensin receptor blockers (ARBs) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1054,2,1054000021,TwS,"Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1055,2,1055000021,TwS,"Thiazide or thiazide-like diuretics with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1056,2,1056000021,TwS,"Hydrocortisone with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1057,2,1057000021,TwS,"dexamethasone with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1058,2,1058000021,TwS,"prednisone or prednisolone with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1059,2,1059000021,TwS,"raloxifene with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1060,2,1060000021,TwS,"Bevacizumab with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1061,2,1061000021,TwS,"Fingolimod with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1062,2,1062000021,TwS,"eculizumab  with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1063,2,1063000021,TwS,"Statins with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1064,2,1064000021,TwS,"metformin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1065,2,1065000021,TwS,"DPP-4 inhibitors with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1066,2,1066000021,TwS,"SGLT2 inhibitors with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1067,2,1067000021,TwS,"GLP1 inhibitors with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1068,2,1068000021,TwS,"H2 receptor antagonist with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1069,2,1069000021,TwS,"famotidine with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1070,2,1070000021,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1071,2,1071000021,TwS,"prazosin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1072,2,1072000021,TwS,"terazosin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1073,2,1073000021,TwS,"doxazosin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1074,2,1074000021,TwS,"tamsulosin with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1075,2,1075000021,TwS,"BCG vaccine with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1076,2,1076000021,TwS,"Colchicine with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1077,2,1077000021,TwS,"Losartan with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1078,2,1078000021,TwS,"cholecalciferol with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1079,2,1079000021,TwS,"Ibrutinib with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1080,2,1080000021,TwS,"abiraterone with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1081,2,1081000021,TwS,"bicalutamide with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1082,2,1082000021,TwS,"emtricitabine with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1083,2,1083000021,TwS,"tacrolimus with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1100,2,1100000021,TwS,"antivirals in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1101,2,1101000021,TwS,"immune-based therapies in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1102,2,1102000021,TwS,"antithrombotics in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1103,2,1103000021,TwS,"antibiotics in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1104,2,1104000021,TwS,"concomitant cardiovascular prevention therapies in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1105,2,1105000021,TwS,"antidiabetics in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1106,2,1106000021,TwS,"concomitant therapies in SCYLLA with Treatment administered on the date of
+admission of hospitalization and prior to intensive services, with no prior observation"
+1001,3,1001000031,TwS,Hydroxychloroquine  with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1002,3,1002000031,TwS,Hydroxychloroquine + Azithromycin  with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1003,3,1003000031,TwS,Hydroxychloroquine + Fluoroquinolones with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1004,3,1004000031,TwS,Hydroxychloroquine + Amoxicillin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1005,3,1005000031,TwS,Hydroxychloroquine + ceftriaxone with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1006,3,1006000031,TwS,Chloroquine with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1007,3,1007000031,TwS,Azithromycin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1008,3,1008000031,TwS,Fluoroquinolones with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1009,3,1009000031,TwS,Amoxicillin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1010,3,1010000031,TwS,Ceftriaxone with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1011,3,1011000031,TwS,"IL6 inhibitors (tocilizumab, sarilumab, siltuximab) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation"
+1012,3,1012000031,TwS,tocilizumab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1013,3,1013000031,TwS,siltuximab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1014,3,1014000031,TwS,sarilumab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1015,3,1015000031,TwS,"JAK inhibitors (ruxolitinib, tofacitinib, oclacitinib, baricitinib, fedratinib, upadacitinib) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation"
+1016,3,1016000031,TwS,baricitinib with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1017,3,1017000031,TwS,tofacitinib with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1018,3,1018000031,TwS,"TNF inhibitors (infliximab, golimumab, etanercept, certolizumab pegol, adalimumab) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation"
+1019,3,1019000031,TwS,adalimumab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1020,3,1020000031,TwS,etanercept with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1021,3,1021000031,TwS,infliximab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1022,3,1022000031,TwS,ustekinumab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1023,3,1023000031,TwS,Anakinra with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1024,3,1024000031,TwS,HIV Protease inhibitors with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1025,3,1025000031,TwS,ritonavir/lopinavir with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1026,3,1026000031,TwS,Interferon beta 1b with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1027,3,1027000031,TwS,Interferon beta 1a with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1028,3,1028000031,TwS,Interferon alfa 2a with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1029,3,1029000031,TwS,favipiravir with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1030,3,1030000031,TwS,Remdesivir with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1031,3,1031000031,TwS,ribavirin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1032,3,1032000031,TwS,oseltamivir with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1033,3,1033000031,TwS,Ivermectin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1034,3,1034000031,TwS,itraconazole with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1035,3,1035000031,TwS,warfarin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1036,3,1036000031,TwS,heparin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1037,3,1037000031,TwS,enoxaparin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1038,3,1038000031,TwS,edoxaban with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1039,3,1039000031,TwS,dabigatran with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1040,3,1040000031,TwS,rivaroxaban with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1041,3,1041000031,TwS,acenocoumarol with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1042,3,1042000031,TwS,apixaban with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1043,3,1043000031,TwS,bemiparin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1044,3,1044000031,TwS,clopidogrel with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1045,3,1045000031,TwS,aspirin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1046,3,1046000031,TwS,prasugrel with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1047,3,1047000031,TwS,alteplase with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1048,3,1048000031,TwS,"Antifibrinolytics (tranexamic acid, aminocaproic acid) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation"
+1049,3,1049000031,TwS,tranexamic acid with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1050,3,1050000031,TwS,Ruxolitinib with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1052,3,1052000031,TwS,ACE inhibitors with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1053,3,1053000031,TwS,Angiotensin receptor blockers (ARBs) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1054,3,1054000031,TwS,Non-Dihydropyridine Calcium Channel Blocker (ndCCB) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1055,3,1055000031,TwS,Thiazide or thiazide-like diuretics with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1056,3,1056000031,TwS,Hydrocortisone with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1057,3,1057000031,TwS,dexamethasone with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1058,3,1058000031,TwS,prednisone or prednisolone with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1059,3,1059000031,TwS,raloxifene with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1060,3,1060000031,TwS,Bevacizumab with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1061,3,1061000031,TwS,Fingolimod with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1062,3,1062000031,TwS,eculizumab  with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1063,3,1063000031,TwS,Statins with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1064,3,1064000031,TwS,metformin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1065,3,1065000031,TwS,DPP-4 inhibitors with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1066,3,1066000031,TwS,SGLT2 inhibitors with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1067,3,1067000031,TwS,GLP1 inhibitors with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1068,3,1068000031,TwS,H2 receptor antagonist with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1069,3,1069000031,TwS,famotidine with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1070,3,1070000031,TwS,"Alpha-1 blockers (Doxazosin, prazosin, terazosin, tasulosin, silodosin, alfuzosin) with Treatment administered during hospitalization and prior to intensive services and 365d prior observation"
+1071,3,1071000031,TwS,prazosin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1072,3,1072000031,TwS,terazosin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1073,3,1073000031,TwS,doxazosin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1074,3,1074000031,TwS,tamsulosin with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1075,3,1075000031,TwS,BCG vaccine with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1076,3,1076000031,TwS,Colchicine with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1077,3,1077000031,TwS,Losartan with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1078,3,1078000031,TwS,cholecalciferol with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1079,3,1079000031,TwS,Ibrutinib with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1080,3,1080000031,TwS,abiraterone with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1081,3,1081000031,TwS,bicalutamide with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1082,3,1082000031,TwS,emtricitabine with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1083,3,1083000031,TwS,tacrolimus with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1100,3,1100000031,TwS,antivirals in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1101,3,1101000031,TwS,immune-based therapies in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1102,3,1102000031,TwS,antithrombotics in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1103,3,1103000031,TwS,antibiotics in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1104,3,1104000031,TwS,concomitant cardiovascular prevention therapies in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1105,3,1105000031,TwS,antidiabetics in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
+1106,3,1106000031,TwS,concomitant therapies in SCYLLA with Treatment administered during hospitalization and prior to intensive services and 365d prior observation
 1001,2001,1001020011,TwS,Hydroxychloroquine  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
 1002,2001,1002020011,TwS,Hydroxychloroquine + Azithromycin  with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services
 1003,2001,1003020011,TwS,Hydroxychloroquine + Fluoroquinolones with Persons with a COVID-19 diagnosis record or a SARS-CoV-2 positive test prior to inpatient visit or intensive services

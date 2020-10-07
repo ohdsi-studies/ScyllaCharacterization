@@ -1,2 +1,4 @@
 generationScript,name,lbOperator,lbSubgroupValue,ubOperator,ubSubgroupValue,subgroupCohortId,cohortId
-subgroup/SubgroupByCohortAndTime.sql,"Persons hospitalized -7d to 0d relative to treatment with a COVID-19 diagnosis record or a SARS-CoV-2 positive test, inpatient setting without or prior to intensive services and 365d prior observation",>=,-7,<=,0,2004,1
+subgroup/SubgroupByCohortAndTime.sql,"Treatment administered on the date of admission of hospitalization and prior to intensive services and 365d prior observation",>=,0,<=,0,2004,1
+subgroup/SubgroupByCohortAndTime.sql,"Treatment administered on the date of admission of hospitalization and prior to intensive services, with no prior observation",>=,0,<=,0,2003,2
+subgroup/SubgroupByCohortAndTime.sql,"Treatment administered during hospitalization and prior to intensive services and 365d prior observation",>=,-7,<=,0,2004,3
