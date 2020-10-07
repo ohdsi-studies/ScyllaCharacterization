@@ -25,7 +25,7 @@ runStudy <- function(connectionDetails = NULL,
   }
 
   ParallelLogger::addDefaultFileLogger(file.path(exportFolder, "ScyllaCharacterization.txt"))
-  ParallelLogger::addDefaultErrorReportLogger(file.path(outputFolder, "ScyllaCharacterizationErrorReportR.txt"))
+  ParallelLogger::addDefaultErrorReportLogger(file.path(exportFolder, "ScyllaCharacterizationErrorReportR.txt"))
   on.exit(ParallelLogger::unregisterLogger("DEFAULT_FILE_LOGGER", silent = TRUE))
   on.exit(ParallelLogger::unregisterLogger("DEFAULT_ERRORREPORT_LOGGER", silent = TRUE), add = TRUE)
   
