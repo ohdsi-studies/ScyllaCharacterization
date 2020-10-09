@@ -141,6 +141,7 @@ readCsv <- function(resourceFile, packageName = getThisPackageName()) {
   return(fileContents)
 }
 
+#' @export
 getPathToResource <- function() {
   return("settings")
 }
