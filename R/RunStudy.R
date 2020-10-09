@@ -494,6 +494,7 @@ writeToCsv <- function(data, fileName, incremental = FALSE, ...) {
   }
 }
 
+#' @export
 enforceMinCellValue <- function(data, fieldName, minValues, silent = FALSE) {
   toCensor <- !is.na(data[, fieldName]) & data[, fieldName] < minValues & data[, fieldName] != 0
   if (!silent) {
