@@ -64,6 +64,7 @@ getRequiredTasks <- function(..., checksum, recordKeepingFile) {
   return(tasks)
 }
 
+#' @export
 getKeyIndex <- function(key, recordKeeping) {
   if (nrow(recordKeeping) == 0 || length(key[[1]]) == 0 || !all(names(key) %in% names(recordKeeping))) {
     return(c())
@@ -98,6 +99,7 @@ recordTasksDone <- function(..., checksum, recordKeepingFile, incremental = TRUE
   readr::write_csv(recordKeeping, recordKeepingFile)
 }
 
+#' @export
 saveIncremental <- function(data, fileName, ...) {
   if (length(list(...)[[1]]) == 0) {
     return()

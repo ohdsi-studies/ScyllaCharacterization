@@ -96,6 +96,7 @@ getAllSubgroup <- function() {
   return(subgroup)  
 }
 
+#' @export
 getAllStudyCohorts <- function() {
   cohortsToCreate <- getCohortsToCreate()
   targetSubgroupXref <- getTargetSubgroupXref()

@@ -480,6 +480,7 @@ loadCohortsForExportWithChecksumFromPackage <- function(cohortIds) {
   return(cohortsWithSubgroup)
 }
 
+#' @export
 writeToCsv <- function(data, fileName, incremental = FALSE, ...) {
   colnames(data) <- SqlRender::camelCaseToSnakeCase(colnames(data))
   if (incremental) {
@@ -513,6 +514,7 @@ enforceMinCellValue <- function(data, fieldName, minValues, silent = FALSE) {
   return(data)
 }
 
+#' @export
 getCohortCounts <- function(connectionDetails = NULL,
                             connection = NULL,
                             cohortDatabaseSchema,
