@@ -156,8 +156,6 @@ runStudy(connectionDetails = connectionDetails,
          databaseDescription = databaseDescription,
          cohortIdsToExcludeFromExecution = cohortIdsToExcludeFromExecution,
          cohortIdsToExcludeFromResultsExport = cohortIdsToExcludeFromResultsExport,
-         incremental = TRUE,
-         useBulkCharacterization = useBulkCharacterization,
          minCellCount = minCellCount) 
 ````
 
