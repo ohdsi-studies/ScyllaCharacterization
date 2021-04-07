@@ -12,7 +12,7 @@ Project Sc(y)lla Characterization: SARS-Cov-2 Large-scale Longitudinal Analyses 
 - Study end date: **TBD**
 - Protocol: **[PDF](https://www.ohdsi.org/wp-content/uploads/2020/05/OHDSI-SCYLLA-PLE-COVID-effectiveness-protocol-v1.0-final-with-appendix.pdf)**
 - Publications: **-**
-- Results explorer: **https://data.ohdsi.org/ScyllaCharacterization/**
+- Results explorer: **[Shiny app](https://data.ohdsi.org/ScyllaCharacterization/)**
 
 **Objectives:**
 The aim of this study is to characterize all emerging drug therapies used in COVID-19 treatment.
